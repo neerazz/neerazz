@@ -7,6 +7,9 @@ I'm a Software Engineering at Mphasis working for a JPMC project as a Seniour So
 - ⚡️Technologies I work with: Java, Groovy, Python and more ....
 - 👨‍💻 All of my projects are available  [here](https://github.com/neerazz?tab=repositories)
 
+#### My GitHub profile trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=neerazz)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/neerazz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerazz&hide=css,html&layout=compact" />
 </a>
