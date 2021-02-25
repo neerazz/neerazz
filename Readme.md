@@ -2,20 +2,18 @@
 
 ### Hi there 👋, I'm Neeraj ✨
 
-I'm a Software Engineering at Mphasis working for a JPMC project as a Senior Software Engineer. <br/> <br/>
-
 <a href="https://github.com/Chanchal1603/github-visitors-counter">
     <img src="https://komarev.com/ghpvc/?username=neerazz&style=plastic">
 </a>
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-neerajkumarsinghb-blue)](https://www.linkedin.com/in/neerajkumarsinghb/)
 
-- 🔭 I’m currently working as Devops Engineer.
+- 🔭 I’m currently working as Senior Software Engineer\Devops Engineer at Mphasis working for a JPMC.
 - 🌱 I’m trying to convert my Ideas in the form of such beautiful, scalable, secure and reliable Restful API's. 💜
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤩 I like to meet and talk to new people in the technology and also interested to know their experience.
 - 💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
-- Tadaa🎇, Here you can reach out to me😇 **[linkedin](https://www.linkedin.com/in/neerajkumarsinghb/).
+    - Tadaa🎇, Here you can reach out to me😇 **[linkedin](https://www.linkedin.com/in/neerajkumarsinghb/).
 - 😁 I participate in Hackathons to build some cool projects and to explore new technology with the team💻.
 - 👨‍💻 Want to eplore my work, [Here](https://github.com/neerazz?tab=repositories) are my projects.
 
