@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤩 I like to meet and talk to new people in the technology and also interested to know their experience.
 - 💬 You can Ask me about the topics of my interested fields and for that you're thinking how can you reach to me? right!!😅
-    - Tadaa🎇, [![dev.to badge](https://img.shields.io/badge/linkedin-neerajkumarsinghb-blue)](https://www.linkedin.com/in/neerajkumarsinghb/)
+    - 🎇 [![dev.to badge](https://img.shields.io/badge/linkedin-neerajkumarsinghb-blue)](https://www.linkedin.com/in/neerajkumarsinghb/)🎇
 - 😁 I participate in Hackathons to build some cool projects and to explore new technology with the team💻.
 - 👨‍💻 Want to eplore my work, [Here](https://github.com/neerazz?tab=repositories) are my projects.
 
