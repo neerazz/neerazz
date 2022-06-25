@@ -24,5 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerazz&hide=css,html&layout=compact" />
 </a>
 <a href="https://github.com/neerazz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neerazz&show_icons=true&hide=issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neerazz&show_icons=true" />
 </a>
