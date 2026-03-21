@@ -1,130 +1,136 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     NEERAJ KUMAR SINGH | Staff Software Engineer @ Meta Reality Labs
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  
-<!-- Animated header with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Neeraj%20Kumar%20Singh&fontSize=42&fontAlign=50&fontAlignY=35&color=0:0D1117,50:161B22,100:0D1117&fontColor=58A6FF&animation=fadeIn&desc=Staff%20Engineer%20%40%20Meta%20Reality%20Labs%20%7C%20Building%20the%20Future%20of%20AR/VR&descSize=16&descAlign=50&descAlignY=57&stroke=58A6FF&strokeWidth=1" alt="Header"/>
 
-<!-- Dynamic typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=15%2B+years+building+systems+that+scale+to+billions;%24386K%2Fyear+saved+%7C+95%25+automation+%7C+150M%2B+daily+builds" alt="Typing SVG" />
+# Neeraj Kumar Singh Beshane
 
-<br/>
+### Staff Security Infrastructure Engineer @ [Parafin](https://www.parafin.com/)
 
-<!-- Social badges with custom styling -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neerajkumarsinghb)
-[![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@neerazz)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://neerazz.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.neerajkumarsingh@gmail.com)
+*Building Zero Trust security for an $8B+ fintech platform*
+*powering capital access on Amazon, DoorDash, Walmart & TikTok Shop*
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=neerazz&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/neerazz?style=for-the-badge&color=58A6FF&labelColor=161B22&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/neerazz?style=for-the-badge&color=58A6FF&labelColor=161B22&label=Total%20Stars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1,350_followers-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
+[![Medium](https://img.shields.io/badge/Medium-18%2B_articles-000000?style=for-the-badge&logo=medium)](https://medium.com/@neerazz)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
+[![Website](https://img.shields.io/badge/Portfolio-neerazz.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
 
 </div>
 
 ---
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## `$ whoami`
 
 ```yaml
-name: Neeraj Kumar Singh
+name: Neeraj Kumar Singh Beshane
 location: San Francisco Bay Area, CA
-current_role: Staff Software Engineer @ Meta Reality Labs
-focus: Building the infrastructure that powers Quest VR & Ray-Ban Stories
-
-experience:
-  total_years: 15+
-  companies: [Meta, Wayfair, JPMorgan Chase, American Express]
-  specialty: "Distributed Systems × GenAI × Developer Experience"
-
-mission: |
-  Making developers 10x more productive through intelligent 
-  automation that actually works at scale.
-
-fun_fact: "My code has saved enough compute hours to power 
-           a small city for a day ⚡"
+current_role: Staff Security Infrastructure Engineer @ Parafin
+previous: [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, American Express]
+experience: 15+ years
+focus: Security Infrastructure x Distributed Systems x GenAI
+publications: Published researcher in AI/RAG security
+speaking: Conf42 DevOps 2026 — Invited Speaker
+fellowships: [IICSPA Fellow, Sigma Xi Full Member, IEEE Member]
 ```
 
-<br clear="right"/>
+---
+
+## Career Timeline
+
+> *Each chapter built on the last — from writing COBOL adapters to architecting Zero Trust infrastructure.*
+
+```
+2025 ──────── PARAFIN ──────────────────────────────────────── present
+ Dec          Staff Security Infrastructure Engineer
+              ├─ Architecting Zero Trust security for $8B+ fintech platform
+              ├─ Partners: Amazon, DoorDash, Walmart, TikTok Shop
+              ├─ Security mock drills, incident response, BC/DR, PII governance
+              └─ YC-backed, $750M valuation
+
+2024 ──────── META (REALITY LABS) ──────────────────────────── 2025 Dec
+ Jun          Staff Software Engineer
+              ├─ Led CI/CD modernization (Project Chesterfield) for Quest & Ray-Ban
+              ├─ GenAI migration tool: 95% manual effort reduction, $386K/yr savings
+              ├─ UBM metadata service: 150M+ req/day, 99.9% reliability
+              ├─ Onboarding assistant: 55% oncall reduction, adopted by 3 teams
+              └─ Mentored 6 SEs (3 promoted to Staff within 12 months)
+
+2024 ──────── RAYMOND JAMES ────────────────────────────────── 2024 Jun
+ Apr          Lead Software Development Engineer
+              ├─ Document generation platform: 8K-12K docs/month, 99.2% success
+              └─ Established 95% code coverage standard across team of 8
+
+2022 ──────── WAYFAIR ──────────────────────────────────────── 2024 Mar
+ Jan          Technical Architect / Principal
+              ├─ DevSecOps platform: 50M+ security checks/month
+              ├─ Kubernetes policy-as-code engine (3% false positive rate)
+              ├─ Unified OAuth 2.0: 125M+ API calls/week, 99.97% uptime
+              ├─ Selected as 1 of 3 architects from 50+ for security roadmap
+              └─ Mentored 20+ engineers (8 promoted to senior/staff)
+
+2019 ──────── JPMORGAN CHASE ───────────────────────────────── 2021 Dec
+ Mar          Senior Software Engineer (CIB)
+              ├─ Escrow platform: $40B+ in deposits
+              ├─ Saga-pattern payment service: 10K+ daily transactions
+              └─ Auth framework adopted by 18+ CIB teams
+
+2011 ──────── AMERICAN EXPRESS (via TCS) ───────────────────── 2019 Mar
+ Dec          Systems Engineer → Senior Software Developer
+              ├─ Monolith to microservices: 60% code reduction, 66% faster APIs
+              ├─ B2B integration: 2M+ monthly requests, 15+ carrier partners
+              ├─ Locations: Bangalore → Montevideo → Phoenix
+              └─ This is where the journey began 🚀
+```
 
 ---
 
-## 🏆 Impact at Scale
-
-<div align="center">
-
-| 💰 **$386K/year** | ⚡ **95% Automation** | 📊 **150M+ Daily** | 🔧 **8,500+ Services** |
-|:---:|:---:|:---:|:---:|
-| Cost savings from UBM | Migration effort reduction | Build requests served | AR/VR infrastructure |
-
-</div>
-
----
-
-## 🚀 Career Highlights
+## Publications & Research
 
 <table>
 <tr>
-<td width="50%">
+<td width="70">
 
-### 🥽 Meta Reality Labs
-**Staff Software Engineer** | 2024 - Present
-
-Leading the modernization of CI/CD infrastructure for **Quest VR** and **Ray-Ban Stories**.
-
-**Key Achievements:**
-- 🤖 **GenAI Migration Tool** - Industry-first automation achieving **95% manual effort reduction**
-- 📦 **Unified Build Model (UBM)** - Serving **150M+ build requests/day** with **99.9% reliability**
-- 🎯 **Developer Productivity** - **60% faster** iteration cycles, **55% fewer** on-call incidents
-- 📚 Trained **50+ engineers** on GenAI integration with **92% post-workshop success rate**
+### 📄
 
 </td>
-<td width="50%">
+<td>
 
-### 🛋️ Wayfair
-**Technical Architect** | 2022 - 2024
+**EmbedGuard: Cross-Layer Detection and Cryptographic Attestation for Secure Retrieval-Augmented Generation**
 
-Architected **next-generation identity & security platforms** serving 50M+ customers.
+*PeerJ Computer Science* (under review) &nbsp;|&nbsp; [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18364920-blue)](https://zenodo.org/records/18364920) &nbsp;|&nbsp; [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/neerazz/embedguard)
 
-**Key Achievements:**
-- 🔐 **Unified Identity Platform** - **125M+ API calls/week**, **99.97% uptime**
-- 🛡️ **DevSecOps Platform** - **50M+ security checks/month**, **40% faster incident response**
-- 🎯 Selected as **1 of 3 architects** (from 50+ candidates) for **$50M+ security roadmap**
-- 👨‍🏫 Mentored **20+ engineers**, **8 promoted** to senior/staff positions
+`100% detection rate` &nbsp; `0% false positives` &nbsp; `0.10ms latency overhead`
 
 </td>
 </tr>
+</table>
+
+**In Progress:**
+| Paper | Domain |
+|:------|:-------|
+| GenOps: A Governance-First Architecture for Enterprise AI Systems | AI Governance / DevOps |
+| TriArchitect: A Shared-State Multi-Agent Framework for Safe Java Code Migration | Multi-Agent Systems |
+| RuntimeGuard AI: Runtime Verification for Autonomous AI Agents | AI Safety / Runtime |
+
+**18+ Technical Articles** on [Medium](https://medium.com/@neerazz) & [LinkedIn](https://linkedin.com/in/neerajkumarsinghb) — Distributed systems, CI/CD, Kafka, Kubernetes, RAG, security
+
+---
+
+## Conference Speaking
+
+<table>
 <tr>
-<td width="50%">
+<td width="320">
 
-### 🏦 JPMorgan Chase
-**Senior Software Engineer** | 2019 - 2021
-
-Core technical leader for **$40B+ escrow management platform**.
-
-**Key Achievements:**
-- 💳 **Payment Microservice** - Processing **10,000+ daily transactions** with saga patterns
-- 🔗 **Data Integration** - Unified 3 legacy systems, **30% reduction** in support calls
-- 🔒 **Auth Framework** - Adopted by **18+ development teams** across CIB division
+[![GenOps Talk](https://img.youtube.com/vi/YcGxfYXwUvI/mqdefault.jpg)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
 
 </td>
-<td width="50%">
+<td>
 
-### 💳 American Express
-**Senior Software Developer** | 2011 - 2019
+### [GenOps: A Governance-Driven Model for Safe, High-Velocity AI in CI/CD Pipelines](https://www.youtube.com/watch?v=YcGxfYXwUvI)
 
-Led modernization of **International Insurance Services** platform.
+**Conf42 DevOps 2026** — Invited Speaker
 
-**Key Achievements:**
-- 🔄 **Monolith → Microservices** - **60% code reduction**, **66% faster response times**
-- 🌐 **B2B Integration** - **2M+ monthly API calls** across **15+ carrier partners**
-- 📱 **IVR Integration** - **100K+ monthly self-service calls**, **20% reduced call center load**
+A framework for integrating GenAI into CI/CD with four pillars: contextualization, strategic guardrails, deployment assurance, and governance audit trails.
+
+[![Watch Talk](https://img.shields.io/badge/Watch_Talk-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI) &nbsp; [![Abstract](https://img.shields.io/badge/Abstract-Conf42-4A90D9?style=flat-square)](https://www.conf42.com/DevOps_2026_Neeraj_Kumar_Singh_Beshane_governance_genai_velocity)
 
 </td>
 </tr>
@@ -132,51 +138,42 @@ Led modernization of **International Insurance Services** platform.
 
 ---
 
-## 💡 Open Source Impact
+## Fellowships & Memberships
 
-<div align="center">
-  
-### Projects Helping **Thousands of Developers** Worldwide 🌍
+| | Organization | Designation | Detail |
+|:--|:------------|:-----------|:-------|
+| 🏅 | **IICSPA** | **Fellow (FIICSPA)** | Top 1% of 5,500+ members. Peer-reviewed by experts from IBM, Moody's, SAP, JPMC, Goldman Sachs |
+| 🔬 | **Sigma Xi** | **Full Member** | The Scientific Research Honor Society (est. 1886). 200+ Nobel laureates among members |
+| ⚡ | **IEEE** | **Member** | Institute of Electrical and Electronics Engineers |
+| 🎓 | **Google Developer Program** | Beta User | Google I/O 2023 Attendee, I/O 2024 Registered |
 
-</div>
+---
+
+## Open Source Impact
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-<h3 align="center">
-  <a href="https://github.com/neerazz/FAANG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerazz&repo=FAANG&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
-  </a>
-</h3>
+### [FAANG](https://github.com/neerazz/FAANG)
+Comprehensive coding interview solutions & resources
 
-**FAANG Interview Prep** - Comprehensive coding interview solutions
+![Stars](https://img.shields.io/github/stars/neerazz/FAANG?style=for-the-badge&color=gold)
+![Forks](https://img.shields.io/github/forks/neerazz/FAANG?style=for-the-badge&color=silver)
 
-[![Stars](https://img.shields.io/github/stars/neerazz/FAANG?style=flat-square&color=58A6FF)](https://github.com/neerazz/FAANG/stargazers)
-[![Forks](https://img.shields.io/github/forks/neerazz/FAANG?style=flat-square&color=58A6FF)](https://github.com/neerazz/FAANG/network/members)
-[![Issues](https://img.shields.io/github/issues/neerazz/FAANG?style=flat-square&color=58A6FF)](https://github.com/neerazz/FAANG/issues)
-
-- 🎯 **1,650+ stars** from engineers worldwide
-- 📝 Solutions for LeetCode, HackerRank, competitive programming
-- 🏆 Used by engineers who landed at **FAANG companies**
+*Used by thousands of engineers worldwide*
+*who landed roles at top tech companies*
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-<h3 align="center">
-  <a href="https://github.com/neerazz/faang-system-design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerazz&repo=faang-system-design&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
-  </a>
-</h3>
+### [EmbedGuard](https://github.com/neerazz/embedguard)
+RAG Security Research Framework
 
-**System Design Playbook** - Curated resources for system design interviews
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18364920-blue?style=for-the-badge)](https://zenodo.org/records/18364920)
 
-[![Stars](https://img.shields.io/github/stars/neerazz/faang-system-design?style=flat-square&color=58A6FF)](https://github.com/neerazz/faang-system-design/stargazers)
-[![Forks](https://img.shields.io/github/forks/neerazz/faang-system-design?style=flat-square&color=58A6FF)](https://github.com/neerazz/faang-system-design/network/members)
-
-- 📚 **50+ forks** and growing
-- 🏗️ Real-world architecture patterns & case studies
-- 🎓 Comprehensive system design interview preparation
+*Fully reproducible: Docker builds,*
+*automated tests, benchmark datasets*
 
 </td>
 </tr>
@@ -184,189 +181,80 @@ Led modernization of **International Insurance Services** platform.
 
 <div align="center">
 
-### 📊 Contribution Overview
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerazz&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" width="95%"/>
+**77 public repos** &nbsp;·&nbsp; **137 followers** &nbsp;·&nbsp; **7,100+ profile views**
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## Impact by Numbers
 
 <div align="center">
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Data & Messaging
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### AI & DevOps
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+| | Metric | Scale |
+|:--|:-------|:------|
+| 🔐 | Zero Trust infrastructure | $8B+ platform (Parafin) |
+| 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
+| 📦 | Unified Build Model | 150M+ requests/day (Meta) |
+| 🛡️ | DevSecOps pipeline | 50M+ security checks/month (Wayfair) |
+| 🔑 | Identity platform | 125M+ API calls/week, 99.97% uptime |
+| 👨‍🏫 | Engineers mentored | 50+ across all roles |
+| 📐 | Architecture reviews | 100+ design docs reviewed |
+| ⭐ | Open source stars | 1,900+ on FAANG repo |
 
 </div>
 
 ---
 
-## 📝 Latest Writing
+## Technical Arsenal
 
-<div align="center">
-
-*Sharing insights from building systems at scale*
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 [The Three Disciplines of AI Engineering](https://medium.com/@neerazz) - Why prompt engineering alone isn't enough
-- 🏗️ [Building GenAI Developer Tools That Actually Ship](https://medium.com/@neerazz) - Lessons from Meta Reality Labs
-- 🔐 [Kubernetes Security at Scale](https://medium.com/@neerazz) - Policy-as-code patterns that work
-- ⚡ [From Monolith to Microservices](https://medium.com/@neerazz) - A practical migration guide
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-[![Read More on Medium](https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@neerazz)
-
-</div>
+```
+Languages        Java · Python · Go · TypeScript · Groovy
+Frameworks       Spring Boot · FastAPI · Node.js · React
+Cloud            AWS · GCP · Kubernetes · Terraform · Docker
+Security         Zero Trust · IAM · Policy-as-Code (OPA/Kyverno) · TLS/mTLS
+Data             Kafka · PostgreSQL · Cassandra · Redis · BigQuery
+AI/ML            RAG Pipelines · LLM Integration · Prompt Engineering · MCP
+DevOps           CI/CD · GitOps · ArgoCD · Datadog · PagerDuty
+Patterns         Microservices · Event Sourcing · CQRS · Saga · mTLS
+```
 
 ---
 
-## 📈 GitHub Analytics
+## Latest Writing
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neerazz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neerazz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerazz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="160"/>
-
-</div>
+| Article | Platform |
+|:--------|:---------|
+| Prompt Engineering vs Context Engineering vs Reasoning Engineering | LinkedIn |
+| From 50 Million Events to a Single Answer: Building a RAG Pipeline | Medium / LinkedIn |
+| Battle-Tested Multi-Region Deployment: Scaling Spring Boot Microservices | LinkedIn |
+| From ACID to AI: The Ultimate Guide to Modern Databases | Medium |
+| The Kubernetes Odyssey: Embark on a Technological Adventure! | Medium |
 
 ---
 
-## 🏅 Achievements & Recognition
+## Beyond the Code
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=neerazz&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-
-</div>
-
-### 🎯 Career Highlights
-
-| 🏆 Achievement | 📍 Context |
-|:---|:---|
-| **Selected as Tech Lead** for org-wide CI/CD modernization | Meta Reality Labs (2024) |
-| **1 of 3 Principal Architects** chosen for $50M+ security roadmap | Wayfair (2023) |
-| **Created organizational standard** for GenAI-powered migrations | Meta Reality Labs (2024) |
-| **Built platform** serving **20M+ customers** with **99.97% uptime** | Wayfair (2022-2024) |
-| **Pioneered** policy-as-code framework with **97% precision** | Wayfair (2022-2024) |
-| **Open source contributions** with **1,650+ GitHub stars** | Ongoing |
-
----
-
-## 🎲 Beyond the Code
-
-<div align="center">
-
-*Life isn't all about code... okay, maybe it is, but here's what keeps me human:*
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/dog.png" width="60"/><br/>
-<b>🐶 Dog Dad</b><br/>
-Proud parent of Byte, <br/>a mischievous beagle
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/controller.png" width="60"/><br/>
-<b>🎮 Retro Gamer</b><br/>
-Still speed-running <br/>Contra on NES
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/worldwide-location.png" width="60"/><br/>
-<b>✈️ Digital Nomad</b><br/>
-Coded in cafés across <br/>5 continents
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/cycling-mountain-bike.png" width="60"/><br/>
-<b>🚴‍♂️ Trail Explorer</b><br/>
-System design on <br/>two wheels
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-*I'm always open to interesting conversations and collaboration opportunities.*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/neerajkumarsinghb">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@neerazz">
-  <img src="https://img.shields.io/badge/Read_my_blog_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="mailto:b.neerajkumarsingh@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://calendly.com/neerazz">
-  <img src="https://img.shields.io/badge/Book_a_chat-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendar"/>
-</a>
-
-<br/><br/>
-
-### 💬 Ask Me About
-
-`Distributed Systems` `GenAI Integration` `CI/CD at Scale` `Kubernetes Security` 
-`Developer Experience` `System Design` `Career in Tech` `Open Source`
-
-</div>
+```
+🐶 Dog Dad       Proud parent of Byte, a mischievous beagle
+🎮 Retro Gamer   Still speed-running Contra on NES
+✈️ Global Dev     Coded in Bangalore, Montevideo, Phoenix, Tampa, San Francisco
+🚴 Trail Explorer System design on two wheels
+```
 
 ---
 
 <div align="center">
 
-### 💭 Philosophy
+### Let's Connect
 
-*"The best code is the code you don't have to write. <br/>The second best is code that writes itself." 🤖*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
+[![Medium](https://img.shields.io/badge/Medium-@neerazz-000000?style=flat-square&logo=medium)](https://medium.com/@neerazz)
+[![YouTube](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
+[![Zenodo](https://img.shields.io/badge/Zenodo-EmbedGuard-1682D4?style=flat-square)](https://zenodo.org/records/18364920)
+[![Website](https://img.shields.io/badge/Website-neerazz.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:0D1117&fontColor=58A6FF" width="100%"/>
+*"The best security is invisible. The best infrastructure is boring. I build both."*
 
 </div>
