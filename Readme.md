@@ -145,64 +145,6 @@ A framework for integrating GenAI into CI/CD with four pillars: contextualizatio
 | 🏅 | **IICSPA** | **Fellow (FIICSPA)** | Top 1% of 5,500+ members. Peer-reviewed by experts from IBM, Moody's, SAP, JPMC, Goldman Sachs |
 | 🔬 | **Sigma Xi** | **Full Member** | The Scientific Research Honor Society (est. 1886). 200+ Nobel laureates among members |
 | ⚡ | **IEEE** | **Member** | Institute of Electrical and Electronics Engineers |
-| 🎓 | **Google Developer Program** | Beta User | Google I/O 2023 Attendee, I/O 2024 Registered |
-
----
-
-## Open Source Impact
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### [FAANG](https://github.com/neerazz/FAANG)
-Comprehensive coding interview solutions & resources
-
-![Stars](https://img.shields.io/github/stars/neerazz/FAANG?style=for-the-badge&color=gold)
-![Forks](https://img.shields.io/github/forks/neerazz/FAANG?style=for-the-badge&color=silver)
-
-*Used by thousands of engineers worldwide*
-*who landed roles at top tech companies*
-
-</td>
-<td align="center" width="50%">
-
-### [EmbedGuard](https://github.com/neerazz/embedguard)
-RAG Security Research Framework
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18364920-blue?style=for-the-badge)](https://zenodo.org/records/18364920)
-
-*Fully reproducible: Docker builds,*
-*automated tests, benchmark datasets*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**77 public repos** &nbsp;·&nbsp; **137 followers** &nbsp;·&nbsp; **7,100+ profile views**
-
-</div>
-
----
-
-## Impact by Numbers
-
-<div align="center">
-
-| | Metric | Scale |
-|:--|:-------|:------|
-| 🔐 | Zero Trust infrastructure | $8B+ platform (Parafin) |
-| 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
-| 📦 | Unified Build Model | 150M+ requests/day (Meta) |
-| 🛡️ | DevSecOps pipeline | 50M+ security checks/month (Wayfair) |
-| 🔑 | Identity platform | 125M+ API calls/week, 99.97% uptime |
-| 👨‍🏫 | Engineers mentored | 50+ across all roles |
-| 📐 | Architecture reviews | 100+ design docs reviewed |
-| ⭐ | Open source stars | 1,900+ on FAANG repo |
-
-</div>
 
 ---
 
@@ -237,7 +179,6 @@ Patterns         Microservices · Event Sourcing · CQRS · Saga · mTLS
 
 ```
 🐶 Dog Dad       Proud parent of Byte, a mischievous beagle
-🎮 Retro Gamer   Still speed-running Contra on NES
 ✈️ Global Dev     Coded in Bangalore, Montevideo, Phoenix, Tampa, San Francisco
 🚴 Trail Explorer System design on two wheels
 ```
