@@ -1,3 +1,16 @@
+<p align="center">
+  <!-- Animated header (capsule-render) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Neeraj%20Kumar%20Singh&fontSize=40&fontAlign=50&fontAlignY=40&color=0:FC466B,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infra%20Engineer%20%40%20Parafin&descSize=20&descAlign=50&descAlignY=75" alt="Neeraj header"/>
+  <br/>
+  <!-- Dynamic typing effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=45&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%248B+fintech+rails+%F0%9F%9B%A1%EF%B8%8F;3+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+DevOps+2026+invited+speaker+%F0%9F%8E%A4" alt="Typing SVG" />
+  <br/>
+  <!-- Fun animated GIFs -->
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="160" alt="Coder at work"/>&nbsp;
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="140" alt="Rocket launch"/>&nbsp;
+  <img src="https://media.giphy.com/media/3ohhwmQ1dXBpX6mBe8/giphy.gif" width="160" alt="Coffee power"/>
+</p>
+
 <div align="center">
 
 # Neeraj Kumar Singh Beshane
