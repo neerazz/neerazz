@@ -1,14 +1,38 @@
+<!-- Animated wave header with 3-color gradient + twinkling stars -->
 <p align="center">
-  <!-- Animated header (capsule-render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Neeraj%20Kumar%20Singh&fontSize=40&fontAlign=50&fontAlignY=40&color=0:FC466B,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infra%20Engineer%20%40%20Parafin&descSize=20&descAlign=50&descAlignY=75" alt="Neeraj header"/>
-  <br/>
-  <!-- Dynamic typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=45&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%248B+fintech+rails+%F0%9F%9B%A1%EF%B8%8F;3+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+DevOps+2026+invited+speaker+%F0%9F%8E%A4" alt="Typing SVG" />
-  <br/>
-  <!-- Fun animated GIFs -->
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="160" alt="Coder at work"/>&nbsp;
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="140" alt="Rocket launch"/>&nbsp;
-  <img src="https://media.giphy.com/media/3ohhwmQ1dXBpX6mBe8/giphy.gif" width="160" alt="Coffee power"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infra%20Engineer%20%40%20Parafin%20%E2%80%A2%20Peer-Reviewed%20AI-Safety%20Researcher&descSize=17&descAlign=50&descAlignY=68" width="100%" alt="Neeraj header"/>
+</p>
+
+<!-- Floating stat widgets: live profile views + verified credentials + GitHub anchors -->
+<p align="center">
+  <a href="https://github.com/neerazz">
+    <img src="https://komarev.com/ghpvc/?username=neerazz&style=flat-square&color=brightgreen&label=Profile+Views" alt="Profile views"/>
+  </a>
+  <img src="https://img.shields.io/badge/9%20Years-on%20GitHub-orange?style=flat-square&logo=github&logoColor=white" alt="9 Years on GitHub"/>
+  <img src="https://img.shields.io/badge/2%2C235%2B-Total%20Stars-gold?style=flat-square&logo=apachespark&logoColor=white" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/3%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
+  <img src="https://img.shields.io/badge/Conf42%202026-Invited%20Speaker-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42"/>
+</p>
+
+<!-- Dynamic typing effect — 5 rotating lines, accent purple -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%248B+fintech+rails+%F0%9F%9B%A1%EF%B8%8F;3+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+DevOps+2026+invited+speaker+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
+</p>
+
+<!-- Floating animated GIF widgets -->
+<p align="center">
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="150" alt="Coder at work"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="130" alt="Rocket launch"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3ohhwmQ1dXBpX6mBe8/giphy.gif" width="150" alt="Coffee power"/>
+</p>
+
+<!-- GitHub trophies — animated cabinet of achievements -->
+<p align="center">
+  <a href="https://github.com/neerazz">
+    <img src="https://github-profile-trophy.vercel.app/?username=neerazz&theme=tokyonight&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub trophies"/>
+  </a>
 </p>
 
 <div align="center">
@@ -236,6 +260,8 @@ Curated DS, algorithms & system-design library
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerazz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/neerazz)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neerazz&theme=tokyonight&hide_border=true)](https://github.com/neerazz)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neerazz&theme=tokyo-night&hide_border=true&area=true&custom_title=9+Years+of+Contribution+Activity)](https://github.com/neerazz)
 
 **2,235+ total stars across owned repos** &nbsp;·&nbsp; **605 forks** &nbsp;·&nbsp; **3 repos with 100+ stars** &nbsp;·&nbsp; **9 years contributing on GitHub**
 
