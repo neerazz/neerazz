@@ -172,7 +172,6 @@ Technical writing on [Medium](https://medium.com/@neerazz) and [LinkedIn](https:
 | 🎖️ | **IICSPA Fellow (FIICSPA)** | Top 1% of 5,500+ members · peer-reviewed by experts from IBM, Moody's, SAP, JPMC, Goldman Sachs · [profile](https://www.iicspa.org/team/neeraj-kumar-singh-) |
 | 🔬 | **Sigma Xi Full Member** | Scientific Research Honor Society (est. 1886) · 200+ Nobel laureates among members · Full membership requires 2+ refereed publications |
 | ⚡ | **IEEE Member** (ID 102037294) | Institute of Electrical and Electronics Engineers |
-| 🎓 | **Google Developer Program** | Google I/O 2023 Attendee · I/O 2024 Registered |
 
 ---
 
