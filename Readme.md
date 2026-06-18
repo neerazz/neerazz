@@ -46,7 +46,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
 [![Medium](https://img.shields.io/badge/Medium-@neerazz-000000?style=for-the-badge&logo=medium)](https://medium.com/@neerazz)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0097--4450-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-0097-4450)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-0097-4450)
 [![Conf42](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
 [![Website](https://img.shields.io/badge/Portfolio-neerazz.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
 
@@ -334,7 +334,7 @@ Patterns         Microservices · Event Sourcing · CQRS · Saga · mTLS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
 [![Medium](https://img.shields.io/badge/Medium-@neerazz-000000?style=flat-square&logo=medium)](https://medium.com/@neerazz)
 [![YouTube](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0097--4450-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0097-4450)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
 [![Website](https://img.shields.io/badge/Website-neerazz.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
 
 *"The best security is invisible. The best infrastructure is boring. I build both — and publish the research behind making the next generation safe."*
