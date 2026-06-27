@@ -83,7 +83,7 @@ experience:    15+ years
 focus:         Security Infrastructure × Distributed Systems × AI Safety
 publications:  3 peer-reviewed (2026) · 1 under review
 writing:       Technical articles on Medium and LinkedIn
-speaking:      Conf42 DevOps 2026 — invited speaker
+speaking:      Conf42 DevOps 2026 + LLMs 2026 — invited speaker (×2)
 ```
 
 ---
@@ -129,9 +129,12 @@ A four-pillar framework for running GenAI inside production CI/CD without breaki
 
 [![Paper](https://img.shields.io/badge/Paper-JoCAAA-1976D2?style=for-the-badge)](https://doi.org/10.48047/jocaaa.2026.35.01.87)
 [![DOI](https://img.shields.io/badge/DOI-10.48047%2Fjocaaa.2026.35.01.87-blue?style=for-the-badge)](https://doi.org/10.48047/jocaaa.2026.35.01.87)
+[![Conf42 Talk](https://img.shields.io/badge/Conf42%20LLMs%202026%20Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/EelEvPhQLDk)
+[![Verified Certificate](https://img.shields.io/badge/Speaker%20Certificate-Verified-2EA44F?style=for-the-badge&logo=verizon&logoColor=white)](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/RuntimeGuard-AI)
 
 **Scalable Tamper-Evident Accountability for High-Risk AI Systems Under the EU AI Act** · *JoCAAA, Vol 35 No 1, pp 1074–1090 · 2026-01-31*
+**Companion talk:** *Conf42 LLMs 2026 — invited speaker* · [verified speaker certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)
 
 The first open-source compliance architecture for EU AI Act Article 14. Uses Groth16 zero-knowledge proofs on the bls12-381 curve to deliver cryptographically rigorous, tamper-evident audit trails inside a production latency budget.
 
