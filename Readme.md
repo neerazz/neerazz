@@ -23,8 +23,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="150" alt="Coder at work"/>
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="130" alt="Rocket launch"/>
-  &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/3ohhwmQ1dXBpX6mBe8/giphy.gif" width="150" alt="Coffee power"/>
 </p>
 
