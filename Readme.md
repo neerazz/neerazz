@@ -28,13 +28,6 @@
   <img src="https://media.giphy.com/media/3ohhwmQ1dXBpX6mBe8/giphy.gif" width="150" alt="Coffee power"/>
 </p>
 
-<!-- GitHub trophies — animated cabinet of achievements -->
-<p align="center">
-  <a href="https://github.com/neerazz">
-    <img src="https://github-profile-trophy.vercel.app/?username=neerazz&theme=tokyonight&row=1&column=7&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub trophies"/>
-  </a>
-</p>
-
 <div align="center">
 
 # Neeraj Kumar Singh Beshane
@@ -45,7 +38,7 @@
 *And for the AI systems we're all about to depend on.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
-[![Medium](https://img.shields.io/badge/Medium-@neerazz-000000?style=for-the-badge&logo=medium)](https://medium.com/@neerazz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-neerazz-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/neerazz)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
 [![Conf42](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
 [![Website](https://img.shields.io/badge/Portfolio-neerazz.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
@@ -66,7 +59,10 @@
 [![IICSPA Fellow](https://img.shields.io/badge/IICSPA-Fellow%20(top%201%25)-6f2da8?style=flat-square)](https://www.iicspa.org/team/neeraj-kumar-singh-)
 [![Sigma Xi](https://img.shields.io/badge/Sigma%20Xi-Full%20Member-8B0000?style=flat-square)](https://www.sigmaxi.org/)
 [![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org)
-[![Conf42](https://img.shields.io/badge/Conf42%20DevOps%202026-Invited%20Speaker-1976D2?style=flat-square)](https://www.conf42.com/DevOps_2026_Neeraj_Kumar_Singh_Beshane_governance_genai_velocity)
+[![Conf42](https://img.shields.io/badge/Conf42%202026-Invited%20Speaker%20%C3%972-1976D2?style=flat-square)](https://www.conf42.com/llms2026)
+[![US Patents](https://img.shields.io/badge/US%20Patents-2%C3%97%20Granted-2E7D32?style=flat-square)](https://neerazz.github.io/#recognition)
+[![JOSS Reviewer](https://img.shields.io/badge/JOSS-Peer%20Reviewer-8A2BE2?style=flat-square)](https://joss.theoj.org/)
+[![Hackathon Judge](https://img.shields.io/badge/Hackathon-Judge%20%26%20Mentor-E65100?style=flat-square)](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)
 
 </div>
 
@@ -82,7 +78,7 @@ previous:      [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, Ameri
 experience:    15+ years
 focus:         Security Infrastructure × Distributed Systems × AI Safety
 publications:  3 peer-reviewed (2026) · 1 under review
-writing:       Technical articles on Medium and LinkedIn
+writing:       Technical articles on LinkedIn, Dev.to & Hashnode · "Securing the Agentic Stack" newsletter
 speaking:      Conf42 DevOps 2026 + LLMs 2026 — invited speaker (×2)
 ```
 
@@ -144,13 +140,13 @@ The first open-source compliance architecture for EU AI Act Article 14. Uses Gro
 
 ### 🤝 TriArchitect — Multi-Agent Java Migration *(under review)*
 
-**A Shared-State Multi-Agent Framework for Safe Java Code Migration** · submitted to IJIES (INASS treatise #20262024)
+**A Shared-State Multi-Agent Framework for Safe Java Code Migration** · *under review at IJIES (International Journal of Intelligent Engineering and Systems, INASS)*
 
-A multi-agent framework that coordinates specialized agents through shared state to perform large-scale Java migrations safely.
+Coordinates specialized planning, transformation, and verification agents through a shared-state protocol so large-scale Java migrations stay correct, auditable, and rollback-safe — the same governance-first philosophy as GenOps, applied to autonomous code change.
 
 ---
 
-Technical writing on [Medium](https://medium.com/@neerazz) and [LinkedIn](https://linkedin.com/in/neerajkumarsinghb) — distributed systems, CI/CD, Kafka, Kubernetes, RAG, AI safety, security infrastructure.
+Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev.to](https://dev.to/neerazz) and [Hashnode](https://hashnode.com/@neerazz) — agentic AI security, MCP risk, RAG, Zero Trust, distributed systems. Weekly newsletter: ["Securing the Agentic Stack"](https://www.linkedin.com/newsletters/7456155337700708352/).
 
 ---
 
@@ -212,63 +208,11 @@ Technical writing on [Medium](https://medium.com/@neerazz) and [LinkedIn](https:
 | 🎖️ | **IICSPA Fellow (FIICSPA)** | Top 1% of 5,500+ members · peer-reviewed by experts from IBM, Moody's, SAP, JPMC, Goldman Sachs · [profile](https://www.iicspa.org/team/neeraj-kumar-singh-) |
 | 🔬 | **Sigma Xi Full Member** | Scientific Research Honor Society (est. 1886) · 200+ Nobel laureates among members · Full membership requires 2+ refereed publications |
 | ⚡ | **IEEE Member** (ID 102037294) | Institute of Electrical and Electronics Engineers |
-
----
-
-## Open Source Impact
-
-> Three community-impact repositories with 100+ stars each. Research repos with their papers are grouped above under [Research & Publications](#research--publications).
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### [FAANG](https://github.com/neerazz/FAANG)
-Comprehensive coding interview solutions & resources
-
-[![Stars](https://img.shields.io/github/stars/neerazz/FAANG?style=for-the-badge&color=gold)](https://github.com/neerazz/FAANG/stargazers)
-[![Forks](https://img.shields.io/github/forks/neerazz/FAANG?style=for-the-badge&color=silver)](https://github.com/neerazz/FAANG/network/members)
-
-*Used by engineers worldwide who landed roles at top tech companies*
-
-</td>
-<td align="center" width="33%">
-
-### [faang-system-design](https://github.com/neerazz/faang-system-design)
-System design patterns & implementations
-
-[![Stars](https://img.shields.io/github/stars/neerazz/faang-system-design?style=for-the-badge&color=gold)](https://github.com/neerazz/faang-system-design/stargazers)
-[![Forks](https://img.shields.io/github/forks/neerazz/faang-system-design?style=for-the-badge&color=silver)](https://github.com/neerazz/faang-system-design/network/members)
-
-*Distributed-systems primer for staff-level interviews*
-
-</td>
-<td align="center" width="33%">
-
-### [DS-Algo-SD-Resources](https://github.com/neerazz/DS-Algo-SD-Resources)
-Curated DS, algorithms & system-design library
-
-[![Stars](https://img.shields.io/github/stars/neerazz/DS-Algo-SD-Resources?style=for-the-badge&color=gold)](https://github.com/neerazz/DS-Algo-SD-Resources/stargazers)
-[![Forks](https://img.shields.io/github/forks/neerazz/DS-Algo-SD-Resources?style=for-the-badge&color=silver)](https://github.com/neerazz/DS-Algo-SD-Resources/network/members)
-
-*Reference material across topics, regularly maintained*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neerazz&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&hide=issues)](https://github.com/neerazz)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerazz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/neerazz)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neerazz&theme=tokyonight&hide_border=true)](https://github.com/neerazz)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neerazz&theme=tokyo-night&hide_border=true&area=true&custom_title=9+Years+of+Contribution+Activity)](https://github.com/neerazz)
-
-**2,235+ total stars across owned repos** &nbsp;·&nbsp; **605 forks** &nbsp;·&nbsp; **3 repos with 100+ stars** &nbsp;·&nbsp; **9 years contributing on GitHub**
-
-</div>
+| 🎤 | **Conf42 Invited Speaker ×2** | DevOps 2026 ([GenOps](https://www.youtube.com/watch?v=YcGxfYXwUvI)) · LLMs 2026 ([RuntimeGuard-AI](https://youtu.be/EelEvPhQLDk), [verified certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)) |
+| 🧾 | **2× US Patents** | Inventor on two granted U.S. patents (platform / fintech inventions) |
+| 🔍 | **JOSS Peer Reviewer** | [Journal of Open Source Software](https://joss.theoj.org/) — reviews of open-source research software |
+| ⚖️ | **Hackathon Judge & Mentor** | Apart Research Global South AI Safety Hackathon 2026 ([public roster](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)) · Qualcomm × AI at Meta ExecuTorch Hackathon (lablab.ai, SF) |
+| 🌐 | **Google Developer Program** | Beta member · Google I/O 2023 attendee |
 
 ---
 
@@ -311,11 +255,11 @@ Patterns         Microservices · Event Sourcing · CQRS · Saga · mTLS
 
 | Article | Platform |
 |:--------|:---------|
+| [Your Agent Can't Tell What It Was Told From What It Read](https://dev.to/neerazz/your-agent-cant-tell-what-it-was-told-from-what-it-read-26fm) | Dev.to · Jul 2026 |
+| [The Web Page Couldn't Reach Localhost. Your Agent Carried It There.](https://dev.to/neerazz/the-web-page-couldnt-reach-localhost-your-agent-carried-it-there-2ip6) | Dev.to · Jun 2026 |
+| [Nobody Wants to Give the AI Write Access to Prod](https://dev.to/neerazz/the-devops-engineers-ai-landscape-aiops-self-healing-and-whats-actually-production-ready-285c) | Dev.to / Hashnode · Apr 2026 |
+| [Securing the Agentic Stack — weekly newsletter](https://www.linkedin.com/newsletters/7456155337700708352/) | LinkedIn |
 | Prompt Engineering vs Context Engineering vs Reasoning Engineering | LinkedIn |
-| From 50 Million Events to a Single Answer: Building a RAG Pipeline | Medium / LinkedIn |
-| Battle-Tested Multi-Region Deployment: Scaling Spring Boot Microservices | LinkedIn |
-| From ACID to AI: The Ultimate Guide to Modern Databases | Medium |
-| The Kubernetes Odyssey: Embark on a Technological Adventure! | Medium |
 
 ---
 
@@ -335,7 +279,8 @@ Patterns         Microservices · Event Sourcing · CQRS · Saga · mTLS
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
-[![Medium](https://img.shields.io/badge/Medium-@neerazz-000000?style=flat-square&logo=medium)](https://medium.com/@neerazz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-neerazz-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/neerazz)
+[![Hashnode](https://img.shields.io/badge/Hashnode-neerazz-2962FF?style=flat-square&logo=hashnode)](https://hashnode.com/@neerazz)
 [![YouTube](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
 [![Website](https://img.shields.io/badge/Website-neerazz.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
