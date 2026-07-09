@@ -58,7 +58,6 @@
 [![Sigma Xi](https://img.shields.io/badge/Sigma%20Xi-Full%20Member-8B0000?style=flat-square)](https://www.sigmaxi.org/)
 [![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org)
 [![Conf42](https://img.shields.io/badge/Conf42%202026-Invited%20Speaker%20%C3%972-1976D2?style=flat-square)](https://www.conf42.com/llms2026)
-[![US Patents](https://img.shields.io/badge/US%20Patents-2%C3%97%20Granted-2E7D32?style=flat-square)](https://neerazz.github.io/#recognition)
 [![JOSS Reviewer](https://img.shields.io/badge/JOSS-Peer%20Reviewer-8A2BE2?style=flat-square)](https://joss.theoj.org/)
 [![Hackathon Judge](https://img.shields.io/badge/Hackathon-Judge%20%26%20Mentor-E65100?style=flat-square)](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)
 
@@ -207,7 +206,6 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 | 🔬 | **Sigma Xi Full Member** | Scientific Research Honor Society (est. 1886) · 200+ Nobel laureates among members · Full membership requires 2+ refereed publications |
 | ⚡ | **IEEE Member** (ID 102037294) | Institute of Electrical and Electronics Engineers |
 | 🎤 | **Conf42 Invited Speaker ×2** | DevOps 2026 ([GenOps](https://www.youtube.com/watch?v=YcGxfYXwUvI)) · LLMs 2026 ([RuntimeGuard-AI](https://youtu.be/EelEvPhQLDk), [verified certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)) |
-| 🧾 | **2× US Patents** | Inventor on two granted U.S. patents (platform / fintech inventions) |
 | 🔍 | **JOSS Peer Reviewer** | [Journal of Open Source Software](https://joss.theoj.org/) — reviews of open-source research software |
 | ⚖️ | **Hackathon Judge & Mentor** | Apart Research Global South AI Safety Hackathon 2026 ([public roster](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)) · Qualcomm × AI at Meta ExecuTorch Hackathon (lablab.ai, SF) |
 | 🌐 | **Google Developer Program** | Beta member · Google I/O 2023 attendee |
