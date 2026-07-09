@@ -16,7 +16,7 @@
 
 <!-- Dynamic typing effect — 5 rotating lines, accent purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%248B+fintech+rails+%F0%9F%9B%A1%EF%B8%8F;3+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+DevOps+2026+invited+speaker+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%2435B%2B+embedded-lending+rails+%F0%9F%9B%A1%EF%B8%8F;3+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+2026+invited+speaker+%C3%972+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
 </p>
 
 <!-- Floating animated GIF widgets -->
@@ -41,7 +41,7 @@
 
 ### I build the boring, invisible parts of security.
 
-*For $8B fintech rails powering Amazon, DoorDash, Walmart & TikTok Shop.*
+*For embedded-lending rails that have extended $35B+ in capital offers — powering Amazon, DoorDash, Walmart & TikTok Shop.*
 *And for the AI systems we're all about to depend on.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
@@ -161,7 +161,7 @@ Technical writing on [Medium](https://medium.com/@neerazz) and [LinkedIn](https:
 ```
 2025 ──────── PARAFIN ──────────────────────────────────────── present
  Dec          Staff Security Infrastructure Engineer
-              ├─ Architecting Zero Trust for an $8B+ fintech platform
+              ├─ Architecting Zero Trust for a platform with $35B+ in capital offers extended
               ├─ Partners: Amazon, DoorDash, Walmart, TikTok Shop
               ├─ Security mock drills, incident response, BC/DR, PII governance
               └─ YC-backed, $750M valuation
@@ -278,7 +278,7 @@ Curated DS, algorithms & system-design library
 
 | | Metric | Scale |
 |:--|:-------|:------|
-| 🔐 | Zero Trust infrastructure | $8B+ platform (Parafin) |
+| 🔐 | Zero Trust infrastructure | $35B+ in capital offers extended (Parafin) |
 | 🛡️ | EmbedGuard detection rate | 94.7% · 51 ms overhead · 500K embeddings (peer-reviewed) |
 | ⚡ | GenOps deployment-cycle reduction | 55.7% · zero safety violations · 15,847 deployments (peer-reviewed) |
 | 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
