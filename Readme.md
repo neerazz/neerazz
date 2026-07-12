@@ -55,7 +55,6 @@
 [![Hackathon Raptors Fellow](https://img.shields.io/badge/Hackathon%20Raptors-Fellow%20%2314975-1f5e3a?style=flat-square)](https://hackathonraptors.com)
 [![IICSPA Fellow](https://img.shields.io/badge/IICSPA-Fellow-6f2da8?style=flat-square)](https://www.iicspa.org/team/neeraj-kumar-singh-)
 [![Sigma Xi](https://img.shields.io/badge/Sigma%20Xi-Full%20Member-8B0000?style=flat-square)](https://www.sigmaxi.org/)
-[![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org)
 [![Conf42](https://img.shields.io/badge/Conf42%202026-Invited%20Speaker%20%C3%972-1976D2?style=flat-square)](https://www.conf42.com/llms2026)
 [![JOSS Reviewer](https://img.shields.io/badge/JOSS-Peer%20Reviewer-8A2BE2?style=flat-square)](https://joss.theoj.org/)
 [![Hackathon Judge](https://img.shields.io/badge/Hackathon-Judge%20%26%20Mentor-E65100?style=flat-square)](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)
