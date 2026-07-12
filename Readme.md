@@ -1,6 +1,6 @@
 <!-- Animated wave header with 3-color gradient + twinkling stars -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infra%20Engineer%20%40%20Parafin%20%E2%80%A2%20Peer-Reviewed%20AI-Safety%20Researcher&descSize=17&descAlign=50&descAlignY=68" width="100%" alt="Neeraj header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infra%20Engineer%20%40%20Parafin%20%E2%80%A2%20Peer-Reviewed%20AI-Safety%20Researcher&descSize=17&descAlign=50&descAlignY=68" width="100%" alt="Neeraj Kumar Singh Beshane header"/>
 </p>
 
 <!-- Floating stat widgets: live profile views + verified credentials + GitHub anchors -->
@@ -8,10 +8,10 @@
   <a href="https://github.com/neerazz">
     <img src="https://komarev.com/ghpvc/?username=neerazz&style=flat-square&color=brightgreen&label=Profile+Views" alt="Profile views"/>
   </a>
-  <img src="https://img.shields.io/badge/9%20Years-on%20GitHub-orange?style=flat-square&logo=github&logoColor=white" alt="9 Years on GitHub"/>
-  <img src="https://img.shields.io/badge/2%2C235%2B-Total%20Stars-gold?style=flat-square&logo=apachespark&logoColor=white" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/Since%202011-building%20software-orange?style=flat-square&logo=github&logoColor=white" alt="Building software since 2011"/>
+  <img src="https://img.shields.io/badge/FAANG-1.88K%20stars-gold?style=flat-square&logo=github&logoColor=white" alt="FAANG repository stars"/>
   <img src="https://img.shields.io/badge/3%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
-  <img src="https://img.shields.io/badge/Conf42%202026-Invited%20Speaker-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42"/>
+  <img src="https://img.shields.io/badge/Conf42%202026-Speaker%20x2-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42 speaker x2"/>
 </p>
 
 <!-- Dynamic typing effect — 5 rotating lines, accent purple -->
@@ -46,15 +46,15 @@
 > **Staff security engineer × peer-reviewed AI-safety researcher.**
 > Today: Zero Trust at [Parafin](https://www.parafin.com/) (YC, $750M valuation).
 > Three peer-reviewed publications in 2026 — open access, CC-BY 4.0:
-> [EmbedGuard](https://doi.org/10.22399/ijcesen.4869) (RAG security · *IJCESEN, Scopus Q3*) ·
-> [GenOps](https://doi.org/10.52783/jisem.v11i1s.14322) (AI-in-CI/CD governance · *JISEM, Scopus Q4 + DOAJ*) ·
+> [EmbedGuard](https://doi.org/10.22399/ijcesen.4869) (RAG security · *IJCESEN*) ·
+> [GenOps](https://doi.org/10.52783/jisem.v11i1s.14322) (AI-in-CI/CD governance · *JISEM*) ·
 > [RuntimeGuard-AI](https://doi.org/10.48047/jocaaa.2026.35.01.87) (EU AI Act Article 14 compliance · *JoCAAA*).
 
 <div align="center">
 
 [![Aureum Gold Laureate](https://img.shields.io/badge/Aureum-Gold%20Laureate%20(NLP)-FFD700?style=flat-square)](https://markets.businessinsider.com/news/stocks/aureum-technology-awards-season-3-results-announced-reinforcing-merit-based-global-technology-recognition-and-industry-trust1-1035845335)
 [![Hackathon Raptors Fellow](https://img.shields.io/badge/Hackathon%20Raptors-Fellow%20%2314975-1f5e3a?style=flat-square)](https://hackathonraptors.com)
-[![IICSPA Fellow](https://img.shields.io/badge/IICSPA-Fellow%20(top%201%25)-6f2da8?style=flat-square)](https://www.iicspa.org/team/neeraj-kumar-singh-)
+[![IICSPA Fellow](https://img.shields.io/badge/IICSPA-Fellow-6f2da8?style=flat-square)](https://www.iicspa.org/team/neeraj-kumar-singh-)
 [![Sigma Xi](https://img.shields.io/badge/Sigma%20Xi-Full%20Member-8B0000?style=flat-square)](https://www.sigmaxi.org/)
 [![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org)
 [![Conf42](https://img.shields.io/badge/Conf42%202026-Invited%20Speaker%20%C3%972-1976D2?style=flat-square)](https://www.conf42.com/llms2026)
@@ -74,9 +74,9 @@ current_role:  Staff Security Infrastructure Engineer @ Parafin
 previous:      [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, American Express]
 experience:    15+ years
 focus:         Security Infrastructure × Distributed Systems × AI Safety
-publications:  3 peer-reviewed (2026) · 1 under review
+publications:  3 peer-reviewed (2026) · PerceptFence DOI support artifact
 writing:       Technical articles on LinkedIn, Dev.to & Hashnode · "Securing the Agentic Stack" newsletter
-speaking:      Conf42 DevOps 2026 + LLMs 2026 — invited speaker (×2)
+speaking:      Conf42 DevOps, Conf42 LLMs, CIMA 2026 — delivered talks
 ```
 
 ---
@@ -87,7 +87,7 @@ speaking:      Conf42 DevOps 2026 + LLMs 2026 — invited speaker (×2)
 
 ### 🛡️ EmbedGuard — RAG Security
 
-[![Paper](https://img.shields.io/badge/Paper-IJCESEN%20(Scopus%20Q3)-1976D2?style=for-the-badge)](https://doi.org/10.22399/ijcesen.4869)
+[![Paper](https://img.shields.io/badge/Paper-IJCESEN-1976D2?style=for-the-badge)](https://doi.org/10.22399/ijcesen.4869)
 [![DOI](https://img.shields.io/badge/DOI-10.22399%2Fijcesen.4869-blue?style=for-the-badge)](https://doi.org/10.22399/ijcesen.4869)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/embedguard)
 
@@ -101,7 +101,7 @@ Production RAG systems are vulnerable to adversarial embeddings — poisoned vec
 
 ### ⚡ GenOps — AI-in-CI/CD Governance
 
-[![Paper](https://img.shields.io/badge/Paper-JISEM%20(Scopus%20Q4%20%2B%20DOAJ)-1976D2?style=for-the-badge)](https://doi.org/10.52783/jisem.v11i1s.14322)
+[![Paper](https://img.shields.io/badge/Paper-JISEM-1976D2?style=for-the-badge)](https://doi.org/10.52783/jisem.v11i1s.14322)
 [![DOI](https://img.shields.io/badge/DOI-10.52783%2Fjisem.v11i1s.14322-blue?style=for-the-badge)](https://doi.org/10.52783/jisem.v11i1s.14322)
 [![Conf42 Talk](https://img.shields.io/badge/Conf42%20Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
 [![Abstract](https://img.shields.io/badge/Abstract-Conf42-4A90D9?style=for-the-badge)](https://www.conf42.com/DevOps_2026_Neeraj_Kumar_Singh_Beshane_governance_genai_velocity)
@@ -129,17 +129,21 @@ A four-pillar framework for running GenAI inside production CI/CD without breaki
 **Scalable Tamper-Evident Accountability for High-Risk AI Systems Under the EU AI Act** · *JoCAAA, Vol 35 No 1, pp 1074–1090 · 2026-01-31*
 **Companion talk:** *Conf42 LLMs 2026 — invited speaker* · [verified speaker certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)
 
-The first open-source compliance architecture for EU AI Act Article 14. Uses Groth16 zero-knowledge proofs on the bls12-381 curve to deliver cryptographically rigorous, tamper-evident audit trails inside a production latency budget.
+An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 zero-knowledge proofs on the bls12-381 curve to deliver cryptographically rigorous, tamper-evident audit trails inside a production latency budget.
 
-**Key results:** `2.3–4.1% latency overhead` · `62 ms witness generation` · `1,389 ms total proving time at 50K-constraint scale` · first open-source reference implementation for Article 14.
+**Key results reported in the paper:** `2.3–4.1% latency overhead` · `62 ms witness generation` · `1,389 ms total proving time at 50K-constraint scale`.
 
 ---
 
-### 🤝 TriArchitect — Multi-Agent Java Migration *(under review)*
+### 🧪 PerceptFence — Screen-Share AI Privacy Artifact
 
-**A Shared-State Multi-Agent Framework for Safe Java Code Migration** · *under review at IJIES (International Journal of Intelligent Engineering and Systems, INASS)*
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21289219-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21289219)
+[![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.21150725-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21150725)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/asmitanegi/PerceptFence)
 
-Coordinates specialized planning, transformation, and verification agents through a shared-state protocol so large-scale Java migrations stay correct, auditable, and rollback-safe — the same governance-first philosophy as GenOps, applied to autonomous code change.
+**Content-Mediation Architecture and Deterministic Coverage for Screen-Share AI Assistants** · *Zenodo v0.3.0 · 2026-07-10*
+
+Public research and reproducibility artifact with Asmita Negi. The Zenodo record includes the revised manuscript and archive, but it is **not peer reviewed** and is **not counted as a fourth scholarly paper**.
 
 ---
 
@@ -163,7 +167,7 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
  Jun          Staff Software Engineer
               ├─ Led CI/CD modernization (Project Chesterfield) for Quest & Ray-Ban
               ├─ GenAI migration tool: 95% manual effort reduction, $386K/yr savings
-              ├─ UBM metadata service: 150M+ req/day, 99.9% reliability
+              ├─ UBM metadata service: 100K+ build ops/month, 99% failure reduction
               ├─ Onboarding assistant: 55% oncall reduction, adopted by 3 teams
               └─ Mentored 6 SEs (3 promoted to Staff within 12 months)
 
@@ -202,10 +206,11 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 |:--|:------------|:-------|
 | 🏅 | **Aureum Gold Laureate** (Season 3) | NLP Achievement Award · Aureum International Awards Council · ref. TEC-26-12296 · [Press](https://markets.businessinsider.com/news/stocks/aureum-technology-awards-season-3-results-announced-reinforcing-merit-based-global-technology-recognition-and-industry-trust1-1035845335) |
 | 🛡️ | **Hackathon Raptors Fellow** | Fellow #14975 · peer-elected UK CIC fellowship (5-Fellow vote, 4/5) · five-year achievement requirement |
-| 🎖️ | **IICSPA Fellow (FIICSPA)** | Top 1% of 5,500+ members · peer-reviewed by experts from IBM, Moody's, SAP, JPMC, Goldman Sachs · [profile](https://www.iicspa.org/team/neeraj-kumar-singh-) |
+| 🎖️ | **IICSPA Fellow (FIICSPA)** | International Institute of Computer Science Professional Association · [profile](https://www.iicspa.org/team/neeraj-kumar-singh-) |
 | 🔬 | **Sigma Xi Full Member** | Scientific Research Honor Society (est. 1886) · 200+ Nobel laureates among members · Full membership requires 2+ refereed publications |
-| ⚡ | **IEEE Member** (ID 102037294) | Institute of Electrical and Electronics Engineers |
+| ⚡ | **IEEE Member** | Institute of Electrical and Electronics Engineers |
 | 🎤 | **Conf42 Invited Speaker ×2** | DevOps 2026 ([GenOps](https://www.youtube.com/watch?v=YcGxfYXwUvI)) · LLMs 2026 ([RuntimeGuard-AI](https://youtu.be/EelEvPhQLDk), [verified certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)) |
+| 🎙️ | **CIMA 2026 Invited Speaker** | NIT Puducherry — [Governing Generative AI in Production](https://www.scrs.in/conference/CIMA2026/speaker/talk/22984) |
 | 🔍 | **JOSS Peer Reviewer** | [Journal of Open Source Software](https://joss.theoj.org/) — reviews of open-source research software |
 | ⚖️ | **Hackathon Judge & Mentor** | Apart Research Global South AI Safety Hackathon 2026 ([public roster](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)) · Qualcomm × AI at Meta ExecuTorch Hackathon (lablab.ai, SF) |
 | 🌐 | **Google Developer Program** | Beta member · Google I/O 2023 attendee |
@@ -222,11 +227,11 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 | 🛡️ | EmbedGuard detection rate | 94.7% · 51 ms overhead · 500K embeddings (peer-reviewed) |
 | ⚡ | GenOps deployment-cycle reduction | 55.7% · zero safety violations · 15,847 deployments (peer-reviewed) |
 | 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
-| 📦 | Unified Build Model | 150M+ requests/day (Meta) |
+| 📦 | Unified Build Model | 100K+ build ops/month · 99% failure reduction (Meta) |
 | 🛡️ | DevSecOps pipeline | 50M+ security checks/month (Wayfair) |
 | 🔑 | Identity platform | 125M+ API calls/week · 99.97% uptime (Wayfair) |
 | 👨‍🏫 | Engineers mentored | 50+ across all roles |
-| ⭐ | Open source stars | 2,235+ across owned repos · 605 forks · 3 repos with 100+ stars |
+| ⭐ | Open source | FAANG: 1,880 stars / 489 forks · faang-system-design: 179 stars / 41 forks (Jul 2026) |
 
 </div>
 
