@@ -9,7 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=neerazz&style=flat-square&color=brightgreen&label=Profile+Views" alt="Profile views"/>
   </a>
   <img src="https://img.shields.io/badge/Since%202011-building%20software-orange?style=flat-square&logo=github&logoColor=white" alt="Building software since 2011"/>
-  <img src="https://img.shields.io/badge/FAANG-1.88K%20stars-gold?style=flat-square&logo=github&logoColor=white" alt="FAANG repository stars"/>
   <img src="https://img.shields.io/badge/3%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
   <img src="https://img.shields.io/badge/Conf42%202026-Speaker%20x2-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42 speaker x2"/>
 </p>
