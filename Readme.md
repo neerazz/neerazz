@@ -15,7 +15,7 @@
 
 <!-- Dynamic typing effect — 5 rotating lines, accent purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%2435B%2B+embedded-lending+rails+%F0%9F%9B%A1%EF%B8%8F;3+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+2026+invited+speaker+%C3%972+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%2435B%2B+embedded-lending+rails+%F0%9F%9B%A1%EF%B8%8F;4+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+2026+invited+speaker+%C3%972+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
 </p>
 
 <!-- Floating animated GIF widgets -->
@@ -44,10 +44,11 @@
 
 > **Staff security engineer × peer-reviewed AI-safety researcher.**
 > Today: Zero Trust at [Parafin](https://www.parafin.com/) (YC, $750M valuation).
-> Three peer-reviewed publications in 2026 — open access, CC-BY 4.0:
+> Four peer-reviewed publications in 2026 — open access:
 > [EmbedGuard](https://doi.org/10.22399/ijcesen.4869) (RAG security · *IJCESEN*) ·
 > [GenOps](https://doi.org/10.52783/jisem.v11i1s.14322) (AI-in-CI/CD governance · *JISEM*) ·
-> [RuntimeGuard-AI](https://doi.org/10.48047/jocaaa.2026.35.01.87) (EU AI Act Article 14 compliance · *JoCAAA*).
+> [RuntimeGuard-AI](https://doi.org/10.48047/jocaaa.2026.35.01.87) (EU AI Act Article 14 compliance · *JoCAAA*) ·
+> [TriArchitect](https://doi.org/10.70917/ijcisim-2026-4917) (safe multi-agent Java migration · *IJCISIM*).
 
 <div align="center">
 
@@ -72,7 +73,7 @@ current_role:  Staff Security Infrastructure Engineer @ Parafin
 previous:      [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, American Express]
 experience:    15+ years
 focus:         Security Infrastructure × Distributed Systems × AI Safety
-publications:  3 peer-reviewed (2026) · PerceptFence DOI support artifact
+publications:  4 peer-reviewed (2026) · PerceptFence DOI support artifact
 writing:       Technical articles on LinkedIn, Dev.to & Hashnode · "Securing the Agentic Stack" newsletter
 speaking:      Conf42 DevOps, Conf42 LLMs, CIMA 2026 — delivered talks
 ```
@@ -81,7 +82,7 @@ speaking:      Conf42 DevOps, Conf42 LLMs, CIMA 2026 — delivered talks
 
 ## Research & Publications
 
-> Three peer-reviewed papers published in 2026 — all open access (CC-BY 4.0). Each project bundles paper + code + (where applicable) invited talk.
+> Four peer-reviewed papers published in 2026 — all open access. Each project bundles paper + code + (where applicable) invited talk.
 
 ### 🛡️ EmbedGuard — RAG Security
 
@@ -94,6 +95,20 @@ speaking:      Conf42 DevOps, Conf42 LLMs, CIMA 2026 — delivered talks
 Production RAG systems are vulnerable to adversarial embeddings — poisoned vectors that look right under cosine similarity but steer downstream generation. EmbedGuard combines embedding-space anomaly scoring with provenance attestation, so an attack has to defeat both layers at once.
 
 **Key results:** `94.7% detection rate` on optimization-based attacks · `51 ms` mean latency overhead · evaluated on a `500K-embedding production-scale` system · Docker-reproducible benchmarks.
+
+---
+
+### 🧭 TriArchitect — Safe Multi-Agent Code Migration
+
+[![Paper](https://img.shields.io/badge/Paper-IJCISIM-1976D2?style=for-the-badge)](https://doi.org/10.70917/ijcisim-2026-4917)
+[![DOI](https://img.shields.io/badge/DOI-10.70917%2Fijcisim--2026--4917-blue?style=for-the-badge)](https://doi.org/10.70917/ijcisim-2026-4917)
+[![PDF](https://img.shields.io/badge/PDF-Open%20Access-2E7D32?style=for-the-badge)](https://cspub-ijcisim.org/index.php/ijcisim/article/download/4917/4055)
+
+**A Shared-State Multi-Agent Framework for Safe Java Code Migration** · *IJCISIM, Vol 18 No 18s, pp 739–751 · 2026-08-19*
+
+Multi-agent LLM systems drift when each agent holds its own private view of a codebase. TriArchitect gives them one shared, typed state — a Typed Migration Graph — and a Validator-Veto Protocol that lets any validator block an unsafe transformation before it lands.
+
+**Focus areas:** `software evolution` · `large language models` · `multi-agent systems` · `automated refactoring` · `legacy migration`
 
 ---
 
