@@ -150,13 +150,23 @@ An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 ze
 
 ### 🧪 PerceptFence — Screen-Share AI Privacy Artifact
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21289219-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21289219)
+[![Zenodo](https://img.shields.io/badge/Zenodo%20v0.4.0-10.5281%2Fzenodo.23004093-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.23004093)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.21150725-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21150725)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/asmitanegi/PerceptFence)
+[![Release](https://img.shields.io/badge/Release-v0.4.0-181717?style=for-the-badge&logo=github)](https://github.com/asmitanegi/PerceptFence/releases/tag/v0.4.0)
 
-**Content-Mediation Architecture and Deterministic Coverage for Screen-Share AI Assistants** · *Zenodo v0.3.0 · 2026-07-10*
+**Content-Mediation Architecture and Deterministic Coverage for Screen-Share AI Assistants** · *v0.4.0 · 2026-09-27* · with Asmita Negi
 
-Public research and reproducibility artifact with Asmita Negi. The Zenodo record includes the revised manuscript and archive, but it is **not peer reviewed** and is **not counted as a fourth scholarly paper**.
+**Use case:** a developer or support engineer shares their screen with an AI assistant while debugging. Terminals, `.env` files, CI logs and admin consoles leak secrets and PII into what the assistant sees.
+
+**v0.4.0 test:** 480 held-out developer-support screens rendered in Chrome, degraded, and read back by OCR, with the rules frozen before the test split ran and three screen types held out.
+
+| Defense | Leaked secrets/PII neutralised |
+|---|---|
+| **PerceptFence** | **889 / 968 (0.918)** |
+| Microsoft Presidio | 0.581 |
+| gitleaks | 0.179 |
+
+The cost is also measured: on the held-out screen types, 0.763 of task-relevant text survives. This is a research artifact with a preprint submitted to arXiv. It is **not peer reviewed** and is **not counted as a scholarly paper**.
 
 ---
 
