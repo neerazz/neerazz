@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=neerazz&style=flat-square&color=brightgreen&label=Profile+Views" alt="Profile views"/>
   </a>
   <img src="https://img.shields.io/badge/Since%202011-building%20software-orange?style=flat-square&logo=github&logoColor=white" alt="Building software since 2011"/>
-  <img src="https://img.shields.io/badge/3%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
+  <img src="https://img.shields.io/badge/4%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
   <img src="https://img.shields.io/badge/Conf42%202026-Speaker%20x2-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42 speaker x2"/>
 </p>
 
@@ -74,7 +74,7 @@ previous:      [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, Ameri
 experience:    15+ years
 focus:         Security Infrastructure × Distributed Systems × AI Safety
 publications:  4 peer-reviewed (2026) · PerceptFence DOI support artifact
-writing:       Technical articles on LinkedIn, Dev.to & Hashnode · "Securing the Agentic Stack" newsletter
+writing:       28 technical articles + 13-issue "Securing the Agentic Stack" newsletter · full list on ORCID
 speaking:      Conf42 DevOps, Conf42 LLMs, CIMA 2026 — delivered talks
 ```
 
@@ -169,6 +169,8 @@ An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 ze
 The cost is also measured: on the held-out screen types, 0.763 of task-relevant text survives. This is a research artifact with a preprint submitted to arXiv. It is **not peer reviewed** and is **not counted as a scholarly paper**.
 
 ---
+
+Full list of papers, articles, talks and software on [ORCID 0009-0002-2125-1805](https://orcid.org/0009-0002-2125-1805).
 
 Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev.to](https://dev.to/neerazz) and [Hashnode](https://hashnode.com/@neerazz) — agentic AI security, MCP risk, RAG, Zero Trust, distributed systems. Weekly newsletter: ["Securing the Agentic Stack"](https://www.linkedin.com/newsletters/7456155337700708352/).
 
