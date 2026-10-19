@@ -1,6 +1,6 @@
 <!-- Animated wave header with 3-color gradient + twinkling stars -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infrastructure%20Engineer%20%40%20Parafin%20%E2%80%A2%20AI%20Agent%20Security%20%C2%B7%20Zero%20Trust%20%C2%B7%20Cloud%20Security&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Neeraj Kumar Singh Beshane header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Making%20AI%20agents%20safe%20to%20trust%20with%20real%20permissions&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Neeraj Kumar Singh Beshane header"/>
 </p>
 
 <!-- Floating stat widgets: live profile views + verified credentials + GitHub anchors -->
@@ -16,7 +16,7 @@
 
 <!-- Dynamic typing effect — 5 rotating lines, accent purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Staff+Security+Infrastructure+Engineer;AI+agent+security+%C2%B7+Zero+Trust+%C2%B7+cloud+security+%F0%9F%9B%A1%EF%B8%8F;4+peer-reviewed+papers+%2B+2+arXiv+preprints+%F0%9F%93%84;Conf42+%C3%972+%C2%B7+CIMA+2026+speaker+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Making+AI+agents+safe+to+trust;AI+agent+security+%C2%B7+Zero+Trust+%C2%B7+cloud+security+%F0%9F%9B%A1%EF%B8%8F;Writing+Securing+the+Agentic+Stack+weekly+%E2%9C%8D%EF%B8%8F;4+peer-reviewed+papers+%2B+2+arXiv+preprints+%F0%9F%93%84;Conf42+%C3%972+%C2%B7+CIMA+2026+speaker+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
 </p>
 
 <!-- Floating animated GIF widgets -->
@@ -30,9 +30,9 @@
 
 # Neeraj Kumar Singh Beshane
 
-### I build the boring, invisible parts of security.
+### Making AI agents safe to trust with real permissions.
 
-*Staff Security Infrastructure Engineer working on AI agent security, Zero Trust and cloud security.*
+*Staff Security Engineer working on AI agent security, Zero Trust and cloud security. I write [Securing the Agentic Stack](https://www.linkedin.com/newsletters/7456155337700708352/) every week.*
 *Ex-Meta, JPMorgan, Wayfair.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
