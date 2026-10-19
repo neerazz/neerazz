@@ -223,8 +223,8 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 
 2024 ──────── META (REALITY LABS) ──────────────────────────── 2025 Dec
  Jun          Staff Software Engineer
-              ├─ Led CI/CD modernization (Project Chesterfield) for Quest & Ray-Ban
-              ├─ Build time −35% (P50) across AR/VR CI/CD
+              ├─ Tech lead, Reality Labs CI/CD modernization for Quest & Ray-Ban
+              ├─ Build time −35% (P50), −42% (P95)
               ├─ GenAI migration tool: 95% manual effort reduction
               ├─ UBM metadata service: 450M+ requests/day, 99% fewer build-tracking failures
               ├─ Onboarding assistant: 55% oncall reduction, adopted by 3 teams
@@ -232,11 +232,11 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 
 2024 ──────── RAYMOND JAMES ────────────────────────────────── 2024 Jun
  Apr          Lead Software Development Engineer
-              └─ Document generation and e-signature platform (Spring Boot microservices)
+              └─ Led a team of 8 on the client-onboarding document and e-signature platform
 
 2022 ──────── WAYFAIR ──────────────────────────────────────── 2024 Mar
  Jan          Technical Architect
-              ├─ DevSecOps / security platform across 20K+ applications
+              ├─ DevSecOps platform adopted by all 15 business units
               ├─ Vulnerability management: 50M+ security checks/month
               ├─ Kubernetes policy-as-code engine (3% false positive rate)
               ├─ Unified OAuth 2.0: 125M+ API calls/week, 99.97% uptime
@@ -244,11 +244,11 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 
 2019 ──────── JPMORGAN CHASE ───────────────────────────────── 2021 Dec
  Mar          Senior Software Engineer (CIB)
-              ├─ Security lead for CIB APIs
-              └─ Reusable API security framework (OAuth 2.0, SSO)
+              ├─ ESAP escrow portal (via Mphasis, then JPMorgan from Jul 2021)
+              └─ Core platform and security lead
 
 2011 ──────── AMERICAN EXPRESS (via TCS) ───────────────────── 2019 Mar
- Dec          Systems Engineer → Senior Software Developer
+ Dec          Mainframe Programmer → Senior Software Developer
               ├─ International Insurance Services: monolith → microservices re-architecture
               ├─ Locations: Bangalore → Montevideo → Phoenix
               └─ This is where the journey began 🚀
@@ -284,7 +284,7 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 | ⚡ | GenOps deployment-cycle reduction | 55.7% · zero safety violations · 15,847 deployments (peer-reviewed) |
 | 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
 | 📦 | Unified Build Model | 450M+ requests/day · 99% fewer build-tracking failures (Meta) |
-| 🛡️ | DevSecOps pipeline | 50M+ security checks/month · 20K+ applications (Wayfair) |
+| 🛡️ | DevSecOps pipeline | 50M+ security checks/month · all 15 business units (Wayfair) |
 | 🔑 | Identity platform | 125M+ API calls/week · 99.97% uptime (Wayfair) |
 | 👨‍🏫 | Engineers mentored | 50+ across all roles |
 | ⭐ | Open source | FAANG: 1,880 stars / 489 forks · faang-system-design: 179 stars / 41 forks (Jul 2026) |
