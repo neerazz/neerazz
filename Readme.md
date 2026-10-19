@@ -1,6 +1,6 @@
 <!-- Animated wave header with 3-color gradient + twinkling stars -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infra%20Engineer%20%40%20Parafin%20%E2%80%A2%20Peer-Reviewed%20AI-Safety%20Researcher&descSize=17&descAlign=50&descAlignY=68" width="100%" alt="Neeraj Kumar Singh Beshane header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Staff%20Security%20Infrastructure%20Engineer%20%40%20Parafin%20%E2%80%A2%20AI%20Agent%20Security%20%C2%B7%20Zero%20Trust%20%C2%B7%20Cloud%20Security&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Neeraj Kumar Singh Beshane header"/>
 </p>
 
 <!-- Floating stat widgets: live profile views + verified credentials + GitHub anchors -->
@@ -10,12 +10,13 @@
   </a>
   <img src="https://img.shields.io/badge/Since%202011-building%20software-orange?style=flat-square&logo=github&logoColor=white" alt="Building software since 2011"/>
   <img src="https://img.shields.io/badge/4%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
+  <img src="https://img.shields.io/badge/2%20Preprints-arXiv%202026-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv preprints"/>
   <img src="https://img.shields.io/badge/Conf42%202026-Speaker%20x2-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42 speaker x2"/>
 </p>
 
 <!-- Dynamic typing effect — 5 rotating lines, accent purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Security+Engineer+%C3%97+AI-Safety+Researcher;Zero+Trust+for+%2435B%2B+embedded-lending+rails+%F0%9F%9B%A1%EF%B8%8F;4+peer-reviewed+papers+in+2026+%F0%9F%93%84;Conf42+2026+invited+speaker+%C3%972+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Staff+Security+Infrastructure+Engineer;AI+agent+security+%C2%B7+Zero+Trust+%C2%B7+cloud+security+%F0%9F%9B%A1%EF%B8%8F;4+peer-reviewed+papers+%2B+2+arXiv+preprints+%F0%9F%93%84;Conf42+%C3%972+%C2%B7+CIMA+2026+speaker+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
 </p>
 
 <!-- Floating animated GIF widgets -->
@@ -31,8 +32,8 @@
 
 ### I build the boring, invisible parts of security.
 
-*For embedded-lending rails that have extended $35B+ in capital offers — powering Amazon, DoorDash, Walmart & TikTok Shop.*
-*And for the AI systems we're all about to depend on.*
+*Staff Security Infrastructure Engineer working on AI agent security, Zero Trust and cloud security.*
+*Ex-Meta, JPMorgan, Wayfair.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
 [![Dev.to](https://img.shields.io/badge/Dev.to-neerazz-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/neerazz)
@@ -42,13 +43,16 @@
 
 </div>
 
-> **Staff security engineer × peer-reviewed AI-safety researcher.**
-> Today: Zero Trust at [Parafin](https://www.parafin.com/) (YC, $750M valuation).
+> **Staff Security Infrastructure Engineer · AI agent security, Zero Trust, cloud security · published AI-security researcher.**
+> Today: first security engineer at [Parafin](https://www.parafin.com/), which has funded $3B+ to 60,000+ small businesses and is joining Stripe (announced Sept 2026, close pending).
 > Four peer-reviewed publications in 2026 — open access:
 > [EmbedGuard](https://doi.org/10.22399/ijcesen.4869) (RAG security · *IJCESEN*) ·
 > [GenOps](https://doi.org/10.52783/jisem.v11i1s.14322) (AI-in-CI/CD governance · *JISEM*) ·
 > [RuntimeGuard-AI](https://doi.org/10.48047/jocaaa.2026.35.01.87) (EU AI Act Article 14 compliance · *JoCAAA*) ·
 > [TriArchitect](https://doi.org/10.70917/ijcisim-2026-4917) (safe multi-agent Java migration · *IJCISIM*).
+> Two arXiv preprints: [PerceptFence](https://doi.org/10.48550/arXiv.2609.34027) (screen-share AI privacy) ·
+> [The Acknowledgment Point Is the System](https://doi.org/10.48550/arXiv.2608.17176) (signed policy-decision receipts for AI audit evidence).
+> Open source: merged [adaptive-attacks probe in NVIDIA/garak](https://github.com/NVIDIA/garak/pull/1742) (PR #1742).
 
 <div align="center">
 
@@ -72,17 +76,19 @@ location:      San Francisco Bay Area, CA
 current_role:  Staff Security Infrastructure Engineer @ Parafin
 previous:      [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, American Express]
 experience:    15+ years
-focus:         Security Infrastructure × Distributed Systems × AI Safety
-publications:  4 peer-reviewed (2026) · PerceptFence DOI support artifact
+focus:         AI Agent Security × Zero Trust × Cloud Security
+publications:  4 peer-reviewed (2026) · 2 arXiv preprints (PerceptFence, Acknowledgment Point)
 writing:       28 technical articles + 13-issue "Securing the Agentic Stack" newsletter · full list on ORCID
-speaking:      Conf42 DevOps, Conf42 LLMs, CIMA 2026 — delivered talks
+speaking:      Conf42 DevOps 2026, Conf42 LLMs 2026, CIMA 2026 — delivered talks
+open_source:   NVIDIA/garak PR #1742 · 3 merged Paperclip PRs · hermes-cursor-acp · hermes-antigravity-oauth
+memberships:   Sigma Xi Full Member · IEEE Member · IICSPA Fellow · Hackathon Raptors Fellow
 ```
 
 ---
 
 ## Research & Publications
 
-> Four peer-reviewed papers published in 2026 — all open access. Each project bundles paper + code + (where applicable) invited talk.
+> Four peer-reviewed papers published in 2026 — all open access — plus two arXiv preprints. Each project bundles paper + code + (where applicable) invited talk.
 
 ### 🛡️ EmbedGuard — RAG Security
 
@@ -148,8 +154,9 @@ An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 ze
 
 ---
 
-### 🧪 PerceptFence — Screen-Share AI Privacy Artifact
+### 🧪 PerceptFence — Screen-Share AI Privacy (arXiv preprint)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.34027-B31B1B?style=for-the-badge&logo=arxiv)](https://doi.org/10.48550/arXiv.2609.34027)
 [![Zenodo](https://img.shields.io/badge/Zenodo%20v0.4.0-10.5281%2Fzenodo.23004093-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.23004093)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.21150725-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21150725)
 [![Release](https://img.shields.io/badge/Release-v0.4.0-181717?style=for-the-badge&logo=github)](https://github.com/asmitanegi/PerceptFence/releases/tag/v0.4.0)
@@ -166,7 +173,29 @@ An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 ze
 | Microsoft Presidio | 0.581 |
 | gitleaks | 0.179 |
 
-The cost is also measured: on the held-out screen types, 0.763 of task-relevant text survives. This is a research artifact with a preprint submitted to arXiv. It is **not peer reviewed** and is **not counted as a scholarly paper**.
+The cost is also measured: on the held-out screen types, 0.763 of task-relevant text survives. The preprint is on arXiv as [arXiv:2609.34027](https://doi.org/10.48550/arXiv.2609.34027) (cs.CR). It is a preprint, **not peer reviewed**, and is **not counted among the four peer-reviewed papers**.
+
+---
+
+### 🧾 The Acknowledgment Point Is the System — AI Audit Evidence (arXiv preprint)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2608.17176-B31B1B?style=for-the-badge&logo=arxiv)](https://doi.org/10.48550/arXiv.2608.17176)
+[![Code](https://img.shields.io/badge/Code-RuntimeGuard--AI%20v2.0.0-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/RuntimeGuard-AI/releases/tag/v2.0.0)
+
+**Durable Policy-Decision Receipts for AI Audit Evidence** · *arXiv:2608.17176 (cs.CR) · Aug 2026 · sole author*
+
+Rebuilds RuntimeGuard-AI around the durability/latency trade-off: each policy decision gets an Ed25519-signed receipt, and receipts are chained into Merkle-epoch attestations. Preprint, not peer reviewed.
+
+---
+
+## Open Source
+
+| Project | What it is |
+|:--|:--|
+| [NVIDIA/garak PR #1742](https://github.com/NVIDIA/garak/pull/1742) | Adaptive-attacks probe for the garak LLM red-teaming framework (code, attack data, tests, docs); merged after maintainer review, shipped in garak v0.16.0 |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 3 merged PRs, including a silent-process watchdog |
+| [hermes-cursor-acp](https://github.com/neerazz/hermes-cursor-acp) | Use Cursor subscription models inside Hermes Agent via the Cursor CLI ACP server · MIT · npm with OIDC provenance |
+| [hermes-antigravity-oauth](https://github.com/neerazz/hermes-antigravity-oauth) | Google Antigravity sign-in for Hermes Agent via the official `agy` CLI · MIT · npm with OIDC provenance |
 
 ---
 
@@ -183,42 +212,44 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 ```
 2025 ──────── PARAFIN ──────────────────────────────────────── present
  Dec          Staff Security Infrastructure Engineer
-              ├─ Architecting Zero Trust for a platform with $35B+ in capital offers extended
-              ├─ Partners: Amazon, DoorDash, Walmart, TikTok Shop
-              ├─ Security mock drills, incident response, BC/DR, PII governance
-              └─ YC-backed, $750M valuation
+              ├─ First security engineer; built vulnerability management from zero
+              │  (policy, asset tiering, priority matrix, SLA engine)
+              ├─ Ran the SOC 2 Type II 2026 program end to end (12 workstreams, 86 controls)
+              ├─ BC/DR from expired to exercised: live single-AZ production failover, zero customer impact
+              ├─ Org-wide AWS baseline: tamper-proof CloudTrail (7-yr Object Lock), Security Hub, root MFA
+              ├─ Led the company's first production TLS 1.3 migration
+              ├─ OIDC + PKCE single sign-on for partner integrations
+              └─ AI governance and MCP tool-access security
 
 2024 ──────── META (REALITY LABS) ──────────────────────────── 2025 Dec
  Jun          Staff Software Engineer
               ├─ Led CI/CD modernization (Project Chesterfield) for Quest & Ray-Ban
-              ├─ GenAI migration tool: 95% manual effort reduction, $386K/yr savings
-              ├─ UBM metadata service: 100K+ build ops/month, 99% failure reduction
+              ├─ Build time −35% (P50) across AR/VR CI/CD
+              ├─ GenAI migration tool: 95% manual effort reduction
+              ├─ UBM metadata service: 450M+ requests/day, 99% fewer build-tracking failures
               ├─ Onboarding assistant: 55% oncall reduction, adopted by 3 teams
-              └─ Mentored 6 SEs (3 promoted to Staff within 12 months)
+              └─ Mentored 6 senior engineers (3 promoted to Staff within 12 months)
 
 2024 ──────── RAYMOND JAMES ────────────────────────────────── 2024 Jun
  Apr          Lead Software Development Engineer
-              ├─ Document generation platform: 8K-12K docs/month, 99.2% success
-              └─ Established 95% code coverage standard across team of 8
+              └─ Document generation and e-signature platform (Spring Boot microservices)
 
 2022 ──────── WAYFAIR ──────────────────────────────────────── 2024 Mar
- Jan          Technical Architect / Principal
-              ├─ DevSecOps platform: 50M+ security checks/month
+ Jan          Technical Architect
+              ├─ DevSecOps / security platform across 20K+ applications
+              ├─ Vulnerability management: 50M+ security checks/month
               ├─ Kubernetes policy-as-code engine (3% false positive rate)
               ├─ Unified OAuth 2.0: 125M+ API calls/week, 99.97% uptime
-              ├─ Selected as 1 of 3 architects from 50+ for security roadmap
               └─ Mentored 20+ engineers (8 promoted to senior/staff)
 
 2019 ──────── JPMORGAN CHASE ───────────────────────────────── 2021 Dec
  Mar          Senior Software Engineer (CIB)
-              ├─ Escrow platform: $40B+ in deposits
-              ├─ Saga-pattern payment service: 10K+ daily transactions
-              └─ Auth framework adopted by 18+ CIB teams
+              ├─ Security lead for CIB APIs
+              └─ Reusable API security framework (OAuth 2.0, SSO)
 
 2011 ──────── AMERICAN EXPRESS (via TCS) ───────────────────── 2019 Mar
  Dec          Systems Engineer → Senior Software Developer
-              ├─ Monolith to microservices: 60% code reduction, 66% faster APIs
-              ├─ B2B integration: 2M+ monthly requests, 15+ carrier partners
+              ├─ International Insurance Services: monolith → microservices re-architecture
               ├─ Locations: Bangalore → Montevideo → Phoenix
               └─ This is where the journey began 🚀
 ```
@@ -248,12 +279,12 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 
 | | Metric | Scale |
 |:--|:-------|:------|
-| 🔐 | Zero Trust infrastructure | $35B+ in capital offers extended (Parafin) |
+| 🔐 | Security program from zero | SOC 2 Type II (86 controls) · vuln management · exercised BC/DR (Parafin) |
 | 🛡️ | EmbedGuard detection rate | 94.7% · 51 ms overhead · 500K embeddings (peer-reviewed) |
 | ⚡ | GenOps deployment-cycle reduction | 55.7% · zero safety violations · 15,847 deployments (peer-reviewed) |
 | 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
-| 📦 | Unified Build Model | 100K+ build ops/month · 99% failure reduction (Meta) |
-| 🛡️ | DevSecOps pipeline | 50M+ security checks/month (Wayfair) |
+| 📦 | Unified Build Model | 450M+ requests/day · 99% fewer build-tracking failures (Meta) |
+| 🛡️ | DevSecOps pipeline | 50M+ security checks/month · 20K+ applications (Wayfair) |
 | 🔑 | Identity platform | 125M+ API calls/week · 99.97% uptime (Wayfair) |
 | 👨‍🏫 | Engineers mentored | 50+ across all roles |
 | ⭐ | Open source | FAANG: 1,880 stars / 489 forks · faang-system-design: 179 stars / 41 forks (Jul 2026) |
