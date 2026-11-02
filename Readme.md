@@ -1,171 +1,64 @@
-<!-- Animated wave header with 3-color gradient + twinkling stars -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=44&fontAlign=50&fontAlignY=36&color=0:FC466B,50:7B2FF7,100:3F5EFB&fontColor=ffffff&animation=twinkling&desc=Making%20AI%20agents%20safe%20to%20trust%20with%20real%20permissions&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Neeraj Kumar Singh Beshane header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Neeraj%20Kumar%20Singh%20Beshane&fontSize=42&fontAlign=50&fontAlignY=36&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&animation=fadeIn&desc=Your%20agent%20wants%20write%20access%20to%20prod.%20I%20decide%20what%20it%20has%20to%20prove%20first.&descSize=15&descAlign=50&descAlignY=66" width="100%" alt="Neeraj Kumar Singh Beshane"/>
 </p>
 
-<!-- Floating stat widgets: live profile views + verified credentials + GitHub anchors -->
 <p align="center">
-  <a href="https://github.com/neerazz">
-    <img src="https://komarev.com/ghpvc/?username=neerazz&style=flat-square&color=brightgreen&label=Profile+Views" alt="Profile views"/>
-  </a>
-  <img src="https://img.shields.io/badge/Since%202011-building%20software-orange?style=flat-square&logo=github&logoColor=white" alt="Building software since 2011"/>
-  <img src="https://img.shields.io/badge/4%20Papers-Peer--Reviewed%202026-blue?style=flat-square&logo=arxiv&logoColor=white" alt="Papers"/>
-  <img src="https://img.shields.io/badge/2%20Preprints-arXiv%202026-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv preprints"/>
-  <img src="https://img.shields.io/badge/Conf42%202026-Speaker%20x2-red?style=flat-square&logo=youtube&logoColor=white" alt="Conf42 speaker x2"/>
+  <a href="https://linkedin.com/in/neerajkumarsinghb"><img src="https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/newsletters/7456155337700708352/"><img src="https://img.shields.io/badge/Newsletter-Securing%20the%20Agentic%20Stack-0A66C2?style=flat-square&logo=linkedin" alt="Newsletter"/></a>
+  <a href="https://orcid.org/0009-0002-2125-1805"><img src="https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://dev.to/neerazz"><img src="https://img.shields.io/badge/Dev.to-neerazz-0A0A0A?style=flat-square&logo=devdotto" alt="Dev.to"/></a>
+  <a href="https://neerazz.github.io"><img src="https://img.shields.io/badge/Site-neerazz.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <img src="https://komarev.com/ghpvc/?username=neerazz&style=flat-square&color=2C5364&label=visitors" alt="Profile views"/>
 </p>
 
-<!-- Dynamic typing effect — 5 rotating lines, accent purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B2FF7&center=true&vCenter=true&width=620&height=50&lines=Making+AI+agents+safe+to+trust;AI+agent+security+%C2%B7+Zero+Trust+%C2%B7+cloud+security+%F0%9F%9B%A1%EF%B8%8F;Writing+Securing+the+Agentic+Stack+weekly+%E2%9C%8D%EF%B8%8F;4+peer-reviewed+papers+%2B+2+arXiv+preprints+%F0%9F%93%84;Conf42+%C3%972+%C2%B7+CIMA+2026+speaker+%F0%9F%8E%A4;Building+the+boring%2C+invisible+parts+of+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=2C5364&center=true&vCenter=true&width=640&height=44&lines=What+did+the+agent+read%3F;What+did+the+agent+see%3F;Will+the+change+it+makes+hold%3F;Can+we+prove+what+it+did%2C+later%3F" alt="Four questions every agent has to answer"/>
 </p>
-
-<!-- Floating animated GIF widgets -->
-<p align="center">
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="150" alt="Coder at work"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3ohhwmQ1dXBpX6mBe8/giphy.gif" width="150" alt="Coffee power"/>
-</p>
-
-<div align="center">
-
-# Neeraj Kumar Singh Beshane
-
-### Making AI agents safe to trust with real permissions.
-
-*Staff Security Engineer working on AI agent security, Zero Trust and cloud security. I write [Securing the Agentic Stack](https://www.linkedin.com/newsletters/7456155337700708352/) every week.*
-*Ex-Meta, JPMorgan, Wayfair.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
-[![Dev.to](https://img.shields.io/badge/Dev.to-neerazz-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/neerazz)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
-[![Conf42](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
-[![Website](https://img.shields.io/badge/Portfolio-neerazz.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
-
-</div>
-
-> **Staff Security Infrastructure Engineer · AI agent security, Zero Trust, cloud security · published AI-security researcher.**
-> Today: first security engineer at [Parafin](https://www.parafin.com/), which has funded $3B+ to 60,000+ small businesses and is joining Stripe (announced Sept 2026, close pending).
-> Four peer-reviewed publications in 2026 — open access:
-> [EmbedGuard](https://doi.org/10.22399/ijcesen.4869) (RAG security · *IJCESEN*) ·
-> [GenOps](https://doi.org/10.52783/jisem.v11i1s.14322) (AI-in-CI/CD governance · *JISEM*) ·
-> [RuntimeGuard-AI](https://doi.org/10.48047/jocaaa.2026.35.01.87) (EU AI Act Article 14 compliance · *JoCAAA*) ·
-> [TriArchitect](https://doi.org/10.70917/ijcisim-2026-4917) (safe multi-agent Java migration · *IJCISIM*).
-> Two arXiv preprints: [PerceptFence](https://doi.org/10.48550/arXiv.2609.34027) (screen-share AI privacy) ·
-> [The Acknowledgment Point Is the System](https://doi.org/10.48550/arXiv.2608.17176) (signed policy-decision receipts for AI audit evidence).
-> Open source: merged [adaptive-attacks probe in NVIDIA/garak](https://github.com/NVIDIA/garak/pull/1742) (PR #1742).
-
-<div align="center">
-
-[![Aureum Gold Laureate](https://img.shields.io/badge/Aureum-Gold%20Laureate%20(NLP)-FFD700?style=flat-square)](https://markets.businessinsider.com/news/stocks/aureum-technology-awards-season-3-results-announced-reinforcing-merit-based-global-technology-recognition-and-industry-trust1-1035845335)
-[![Hackathon Raptors Fellow](https://img.shields.io/badge/Hackathon%20Raptors-Fellow%20%2314975-1f5e3a?style=flat-square)](https://hackathonraptors.com)
-[![IICSPA Fellow](https://img.shields.io/badge/IICSPA-Fellow-6f2da8?style=flat-square)](https://www.iicspa.org/team/neeraj-kumar-singh-)
-[![Sigma Xi](https://img.shields.io/badge/Sigma%20Xi-Full%20Member-8B0000?style=flat-square)](https://www.sigmaxi.org/)
-[![Conf42](https://img.shields.io/badge/Conf42%202026-Invited%20Speaker%20%C3%972-1976D2?style=flat-square)](https://www.conf42.com/llms2026)
-[![JOSS Reviewer](https://img.shields.io/badge/JOSS-Peer%20Reviewer-8A2BE2?style=flat-square)](https://joss.theoj.org/)
-[![Hackathon Judge](https://img.shields.io/badge/Hackathon-Judge%20%26%20Mentor-E65100?style=flat-square)](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)
-
-</div>
 
 ---
 
-## `$ whoami`
+Every AI agent eventually asks for the same thing: real permissions on a real system. This is the gate I think it should have to pass.
 
-```yaml
-name:          Neeraj Kumar Singh Beshane
-location:      San Francisco Bay Area, CA
-current_role:  Staff Security Infrastructure Engineer @ Parafin
-previous:      [Meta Reality Labs, Raymond James, Wayfair, JPMorgan Chase, American Express]
-experience:    15+ years
-focus:         AI Agent Security × Zero Trust × Cloud Security
-publications:  4 peer-reviewed (2026) · 2 arXiv preprints (PerceptFence, Acknowledgment Point)
-writing:       28 technical articles + 13-issue "Securing the Agentic Stack" newsletter · full list on ORCID
-speaking:      Conf42 DevOps 2026, Conf42 LLMs 2026, CIMA 2026 — delivered talks
-open_source:   NVIDIA/garak PR #1742 · 3 merged Paperclip PRs · hermes-cursor-acp · hermes-antigravity-oauth
-memberships:   Sigma Xi Full Member · IEEE Member · IICSPA Fellow · Hackathon Raptors Fellow
+```text
+agent ▸ request   write  prod/payments-db
+        reason    "the migration test is failing, I can fix it"
+
+guard ▸ what did it read?          retrieval provenance ............ checked   EmbedGuard
+        what did it see?           secrets and PII on screen ....... masked    PerceptFence
+        will the change hold?      validator veto + CI guardrails .. checked   TriArchitect · GenOps
+        can we prove it later?     signed decision receipt ......... issued    RuntimeGuard-AI
+
+guard ▸ ALLOW — with a receipt.
 ```
 
----
+Building that gate is my job. I'm a **Staff Security Infrastructure Engineer** and the first security engineer at [Parafin](https://www.parafin.com/), which has funded $3B+ to 60,000+ small businesses and is joining Stripe (announced Sept 2026, close pending). Before that: Meta Reality Labs, Wayfair, JPMorgan Chase, American Express. Fifteen years, starting on the mainframe.
 
-## Research & Publications
-
-> Four peer-reviewed papers published in 2026 — all open access — plus two arXiv preprints. Each project bundles paper + code + (where applicable) invited talk.
-
-### 🛡️ EmbedGuard — RAG Security
-
-[![Paper](https://img.shields.io/badge/Paper-IJCESEN-1976D2?style=for-the-badge)](https://doi.org/10.22399/ijcesen.4869)
-[![DOI](https://img.shields.io/badge/DOI-10.22399%2Fijcesen.4869-blue?style=for-the-badge)](https://doi.org/10.22399/ijcesen.4869)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/embedguard)
-
-**Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** · *IJCESEN, Vol 12 No 1, pp 589–602 · 2026-02-05*
-
-Production RAG systems are vulnerable to adversarial embeddings — poisoned vectors that look right under cosine similarity but steer downstream generation. EmbedGuard combines embedding-space anomaly scoring with provenance attestation, so an attack has to defeat both layers at once.
-
-**Key results:** `94.7% detection rate` on optimization-based attacks · `51 ms` mean latency overhead · evaluated on a `500K-embedding production-scale` system · Docker-reproducible benchmarks.
+Each line in the gate is a question I have published on. Four peer-reviewed papers in 2026, two arXiv preprints, a merged probe in NVIDIA's LLM red-teaming tool, and a weekly newsletter, [Securing the Agentic Stack](https://www.linkedin.com/newsletters/7456155337700708352/).
 
 ---
 
-### 🧭 TriArchitect — Safe Multi-Agent Code Migration
+## 1 · What did the agent read?
 
-[![Paper](https://img.shields.io/badge/Paper-IJCISIM-1976D2?style=for-the-badge)](https://doi.org/10.70917/ijcisim-2026-4917)
-[![DOI](https://img.shields.io/badge/DOI-10.70917%2Fijcisim--2026--4917-blue?style=for-the-badge)](https://doi.org/10.70917/ijcisim-2026-4917)
-[![PDF](https://img.shields.io/badge/PDF-Open%20Access-2E7D32?style=for-the-badge)](https://cspub-ijcisim.org/index.php/ijcisim/article/download/4917/4055)
+### 🛡️ EmbedGuard — poisoned vectors in RAG
 
-**A Shared-State Multi-Agent Framework for Safe Java Code Migration** · *IJCISIM, Vol 18 No 18s, pp 739–751 · 2026-08-19*
+[![Paper](https://img.shields.io/badge/Paper-IJCESEN-1976D2?style=flat-square)](https://doi.org/10.22399/ijcesen.4869)
+[![DOI](https://img.shields.io/badge/DOI-10.22399%2Fijcesen.4869-blue?style=flat-square)](https://doi.org/10.22399/ijcesen.4869)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/neerazz/embedguard)
 
-Multi-agent LLM systems drift when each agent holds its own private view of a codebase. TriArchitect gives them one shared, typed state — a Typed Migration Graph — and a Validator-Veto Protocol that lets any validator block an unsafe transformation before it lands.
+*Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems* · IJCESEN, Vol 12 No 1, pp 589–602 · 2026-02-05
 
-**Focus areas:** `software evolution` · `large language models` · `multi-agent systems` · `automated refactoring` · `legacy migration`
+An adversarial embedding looks right under cosine similarity and still steers the answer. EmbedGuard pairs embedding-space anomaly scoring with provenance attestation, so an attacker has to beat both layers at once.
+**`94.7%` detection on optimization-based attacks · `51 ms` mean overhead · `500K` embeddings · Docker-reproducible.**
 
----
+## 2 · What did the agent see?
 
-### ⚡ GenOps — AI-in-CI/CD Governance
+### 🧪 PerceptFence — screen-share AI privacy *(arXiv preprint, with Asmita Negi)*
 
-[![Paper](https://img.shields.io/badge/Paper-JISEM-1976D2?style=for-the-badge)](https://doi.org/10.52783/jisem.v11i1s.14322)
-[![DOI](https://img.shields.io/badge/DOI-10.52783%2Fjisem.v11i1s.14322-blue?style=for-the-badge)](https://doi.org/10.52783/jisem.v11i1s.14322)
-[![Conf42 Talk](https://img.shields.io/badge/Conf42%20Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
-[![Abstract](https://img.shields.io/badge/Abstract-Conf42-4A90D9?style=for-the-badge)](https://www.conf42.com/DevOps_2026_Neeraj_Kumar_Singh_Beshane_governance_genai_velocity)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/genops-framework)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.34027-B31B1B?style=flat-square&logo=arxiv)](https://doi.org/10.48550/arXiv.2609.34027)
+[![Zenodo](https://img.shields.io/badge/Zenodo%20v0.4.0-10.5281%2Fzenodo.23004093-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.23004093)
+[![Release](https://img.shields.io/badge/Release-v0.4.0-181717?style=flat-square&logo=github)](https://github.com/asmitanegi/PerceptFence/releases/tag/v0.4.0)
 
-**A Governance-First Architecture for Embedding Generative AI into CI/CD Pipelines** · *JISEM, Vol 11(1s), pp 1518–1539 · 2026-02-15*
-**Companion talk:** *Conf42 DevOps 2026 — invited speaker*
-
-A four-pillar framework for running GenAI inside production CI/CD without breaking governance: contextualization, strategic guardrails, deployment assurance, and governance audit trails.
-
-**Key results:** `55.7% reduction` in median deployment cycle time (52.8 → 23.4 min, p < 0.001) · `zero safety policy violations` · `47.2% reduction` in error-budget variance · evaluated across `15,847 deployments / 127 microservices / 8 months / 3 organizations`.
-
-[![GenOps Talk](https://img.youtube.com/vi/YcGxfYXwUvI/mqdefault.jpg)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
-
----
-
-### ⚖️ RuntimeGuard-AI — EU AI Act Article 14 Compliance
-
-[![Paper](https://img.shields.io/badge/Paper-JoCAAA-1976D2?style=for-the-badge)](https://doi.org/10.48047/jocaaa.2026.35.01.87)
-[![DOI](https://img.shields.io/badge/DOI-10.48047%2Fjocaaa.2026.35.01.87-blue?style=for-the-badge)](https://doi.org/10.48047/jocaaa.2026.35.01.87)
-[![Conf42 Talk](https://img.shields.io/badge/Conf42%20LLMs%202026%20Talk-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/EelEvPhQLDk)
-[![Verified Certificate](https://img.shields.io/badge/Speaker%20Certificate-Verified-2EA44F?style=for-the-badge&logo=verizon&logoColor=white)](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/RuntimeGuard-AI)
-
-**Scalable Tamper-Evident Accountability for High-Risk AI Systems Under the EU AI Act** · *JoCAAA, Vol 35 No 1, pp 1074–1090 · 2026-01-31*
-**Companion talk:** *Conf42 LLMs 2026 — invited speaker* · [verified speaker certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)
-
-An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 zero-knowledge proofs on the bls12-381 curve to deliver cryptographically rigorous, tamper-evident audit trails inside a production latency budget.
-
-**Key results reported in the paper:** `2.3–4.1% latency overhead` · `62 ms witness generation` · `1,389 ms total proving time at 50K-constraint scale`.
-
----
-
-### 🧪 PerceptFence — Screen-Share AI Privacy (arXiv preprint)
-
-[![arXiv](https://img.shields.io/badge/arXiv-2609.34027-B31B1B?style=for-the-badge&logo=arxiv)](https://doi.org/10.48550/arXiv.2609.34027)
-[![Zenodo](https://img.shields.io/badge/Zenodo%20v0.4.0-10.5281%2Fzenodo.23004093-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.23004093)
-[![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.21150725-1682D4?style=for-the-badge)](https://doi.org/10.5281/zenodo.21150725)
-[![Release](https://img.shields.io/badge/Release-v0.4.0-181717?style=for-the-badge&logo=github)](https://github.com/asmitanegi/PerceptFence/releases/tag/v0.4.0)
-
-**Content-Mediation Architecture and Deterministic Coverage for Screen-Share AI Assistants** · *v0.4.0 · 2026-09-27* · with Asmita Negi
-
-**Use case:** a developer or support engineer shares their screen with an AI assistant while debugging. Terminals, `.env` files, CI logs and admin consoles leak secrets and PII into what the assistant sees.
-
-**v0.4.0 test:** 480 held-out developer-support screens rendered in Chrome, degraded, and read back by OCR, with the rules frozen before the test split ran and three screen types held out.
+You share your screen with an assistant while debugging. Your terminal, `.env` file and CI logs get shared too. PerceptFence mediates what the model sees. The v0.4.0 test used 480 held-out developer-support screens, rendered in Chrome, degraded and read back by OCR, with the rules frozen before the test split ran:
 
 | Defense | Leaked secrets/PII neutralised |
 |---|---|
@@ -173,41 +66,74 @@ An open-source compliance architecture for EU AI Act Article 14. Uses Groth16 ze
 | Microsoft Presidio | 0.581 |
 | gitleaks | 0.179 |
 
-The cost is also measured: on the held-out screen types, 0.763 of task-relevant text survives. The preprint is on arXiv as [arXiv:2609.34027](https://doi.org/10.48550/arXiv.2609.34027) (cs.CR). It is a preprint, **not peer reviewed**, and is **not counted among the four peer-reviewed papers**.
+The cost is measured too: 0.763 of task-relevant text survives on held-out screen types. Preprint, **not peer reviewed**, not counted among the four papers.
+
+## 3 · Will the change it makes hold?
+
+### 🧭 TriArchitect — multi-agent code migration that can say no
+
+[![Paper](https://img.shields.io/badge/Paper-IJCISIM-1976D2?style=flat-square)](https://doi.org/10.70917/ijcisim-2026-4917)
+[![DOI](https://img.shields.io/badge/DOI-10.70917%2Fijcisim--2026--4917-blue?style=flat-square)](https://doi.org/10.70917/ijcisim-2026-4917)
+[![PDF](https://img.shields.io/badge/PDF-Open%20Access-2E7D32?style=flat-square)](https://cspub-ijcisim.org/index.php/ijcisim/article/download/4917/4055)
+
+*A Shared-State Multi-Agent Framework for Safe Java Code Migration* · IJCISIM, Vol 18 No 18s, pp 739–751 · 2026-08-19
+
+Agents drift when each one holds a private view of the codebase. TriArchitect gives them one typed shared state, the Typed Migration Graph, and a Validator-Veto Protocol: any validator can block an unsafe transformation before it lands.
+
+### ⚡ GenOps — GenAI inside CI/CD without losing governance
+
+[![Paper](https://img.shields.io/badge/Paper-JISEM-1976D2?style=flat-square)](https://doi.org/10.52783/jisem.v11i1s.14322)
+[![DOI](https://img.shields.io/badge/DOI-10.52783%2Fjisem.v11i1s.14322-blue?style=flat-square)](https://doi.org/10.52783/jisem.v11i1s.14322)
+[![Talk](https://img.shields.io/badge/Conf42%20DevOps%202026-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/neerazz/genops-framework)
+
+*A Governance-First Architecture for Embedding Generative AI into CI/CD Pipelines* · JISEM, Vol 11(1s), pp 1518–1539 · 2026-02-15
+
+Four pillars: contextualization, strategic guardrails, deployment assurance, governance audit trails.
+**`55.7%` lower median deployment cycle time (52.8 → 23.4 min, p < 0.001) · `zero` safety policy violations · `47.2%` lower error-budget variance · `15,847` deployments across 127 microservices, 8 months, 3 organizations.**
+
+## 4 · Can we prove what it did, later?
+
+### ⚖️ RuntimeGuard-AI — tamper-evident audit for the EU AI Act
+
+[![Paper](https://img.shields.io/badge/Paper-JoCAAA-1976D2?style=flat-square)](https://doi.org/10.48047/jocaaa.2026.35.01.87)
+[![DOI](https://img.shields.io/badge/DOI-10.48047%2Fjocaaa.2026.35.01.87-blue?style=flat-square)](https://doi.org/10.48047/jocaaa.2026.35.01.87)
+[![Talk](https://img.shields.io/badge/Conf42%20LLMs%202026-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/EelEvPhQLDk)
+[![Certificate](https://img.shields.io/badge/Speaker%20Certificate-Verified-2EA44F?style=flat-square)](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/neerazz/RuntimeGuard-AI)
+
+*Scalable Tamper-Evident Accountability for High-Risk AI Systems Under the EU AI Act* · JoCAAA, Vol 35 No 1, pp 1074–1090 · 2026-01-31
+
+Article 14 asks for human oversight you can demonstrate. RuntimeGuard-AI uses Groth16 zero-knowledge proofs on bls12-381 to keep the audit trail tamper-evident inside a production latency budget.
+**`2.3–4.1%` latency overhead · `62 ms` witness generation · `1,389 ms` total proving at 50K constraints.**
+
+### 🧾 The Acknowledgment Point Is the System *(arXiv preprint, sole author)*
+
+[![arXiv](https://img.shields.io/badge/arXiv-2608.17176-B31B1B?style=flat-square&logo=arxiv)](https://doi.org/10.48550/arXiv.2608.17176)
+[![Code](https://img.shields.io/badge/RuntimeGuard--AI-v2.0.0-181717?style=flat-square&logo=github)](https://github.com/neerazz/RuntimeGuard-AI/releases/tag/v2.0.0)
+
+*Durable Policy-Decision Receipts for AI Audit Evidence* · arXiv:2608.17176 (cs.CR) · Aug 2026
+
+The follow-up rebuilds RuntimeGuard-AI around the durability/latency trade-off. Every policy decision gets an Ed25519-signed receipt, and receipts chain into Merkle-epoch attestations. That receipt is the last line of the gate above. Preprint, not peer reviewed.
 
 ---
 
-### 🧾 The Acknowledgment Point Is the System — AI Audit Evidence (arXiv preprint)
+## Breaking it on purpose
 
-[![arXiv](https://img.shields.io/badge/arXiv-2608.17176-B31B1B?style=for-the-badge&logo=arxiv)](https://doi.org/10.48550/arXiv.2608.17176)
-[![Code](https://img.shields.io/badge/Code-RuntimeGuard--AI%20v2.0.0-181717?style=for-the-badge&logo=github)](https://github.com/neerazz/RuntimeGuard-AI/releases/tag/v2.0.0)
-
-**Durable Policy-Decision Receipts for AI Audit Evidence** · *arXiv:2608.17176 (cs.CR) · Aug 2026 · sole author*
-
-Rebuilds RuntimeGuard-AI around the durability/latency trade-off: each policy decision gets an Ed25519-signed receipt, and receipts are chained into Merkle-epoch attestations. Preprint, not peer reviewed.
-
----
-
-## Open Source
+A gate is only as good as the attacks it has seen.
 
 | Project | What it is |
 |:--|:--|
-| [NVIDIA/garak PR #1742](https://github.com/NVIDIA/garak/pull/1742) | Adaptive-attacks probe for the garak LLM red-teaming framework (code, attack data, tests, docs); merged after maintainer review, shipped in garak v0.16.0 |
+| [NVIDIA/garak PR #1742](https://github.com/NVIDIA/garak/pull/1742) | Adaptive-attacks probe for garak, NVIDIA's LLM red-teaming framework: code, attack data, tests, docs. Merged after maintainer review, shipped in garak v0.16.0 |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 3 merged PRs, including a silent-process watchdog |
-| [hermes-cursor-acp](https://github.com/neerazz/hermes-cursor-acp) | Use Cursor subscription models inside Hermes Agent via the Cursor CLI ACP server · MIT · npm with OIDC provenance |
+| [hermes-cursor-acp](https://github.com/neerazz/hermes-cursor-acp) | Cursor subscription models inside Hermes Agent via the Cursor CLI ACP server · MIT · npm with OIDC provenance |
 | [hermes-antigravity-oauth](https://github.com/neerazz/hermes-antigravity-oauth) | Google Antigravity sign-in for Hermes Agent via the official `agy` CLI · MIT · npm with OIDC provenance |
 
 ---
 
-Full list of papers, articles, talks and software on [ORCID 0009-0002-2125-1805](https://orcid.org/0009-0002-2125-1805).
+## How I got here
 
-Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev.to](https://dev.to/neerazz) and [Hashnode](https://hashnode.com/@neerazz) — agentic AI security, MCP risk, RAG, Zero Trust, distributed systems. Weekly newsletter: ["Securing the Agentic Stack"](https://www.linkedin.com/newsletters/7456155337700708352/).
-
----
-
-## Career Timeline
-
-> *Each chapter built on the last — from writing COBOL adapters to architecting Zero Trust infrastructure.*
+Fifteen years in one direction: moving the data, then shipping the code, then deciding who is allowed to touch either.
 
 ```
 2025 ──────── PARAFIN ──────────────────────────────────────── present
@@ -250,98 +176,62 @@ Technical writing on [LinkedIn](https://linkedin.com/in/neerajkumarsinghb), [Dev
 2011 ──────── AMERICAN EXPRESS (via TCS) ───────────────────── 2019 Mar
  Dec          Mainframe Programmer → Senior Software Developer
               ├─ International Insurance Services: monolith → microservices re-architecture
-              ├─ Locations: Bangalore → Montevideo → Phoenix
-              └─ This is where the journey began 🚀
+              └─ Bangalore → Montevideo → Phoenix
 ```
 
 ---
 
-## Honors, Fellowships & Memberships
+## On stage, on panels, in the room
 
 | | Recognition | Detail |
-|:--|:------------|:-------|
-| 🏅 | **Aureum Gold Laureate** (Season 3) | NLP Achievement Award · Aureum International Awards Council · ref. TEC-26-12296 · [Press](https://markets.businessinsider.com/news/stocks/aureum-technology-awards-season-3-results-announced-reinforcing-merit-based-global-technology-recognition-and-industry-trust1-1035845335) |
-| 🛡️ | **Hackathon Raptors Fellow** | Fellow #14975 · peer-elected UK CIC fellowship (5-Fellow vote, 4/5) · five-year achievement requirement |
-| 🎖️ | **IICSPA Fellow (FIICSPA)** | International Institute of Computer Science Professional Association · [profile](https://www.iicspa.org/team/neeraj-kumar-singh-) |
-| 🔬 | **Sigma Xi Full Member** | Scientific Research Honor Society (est. 1886) · 200+ Nobel laureates among members · Full membership requires 2+ refereed publications |
-| ⚡ | **IEEE Member** | Institute of Electrical and Electronics Engineers |
-| 🎤 | **Conf42 Invited Speaker ×2** | DevOps 2026 ([GenOps](https://www.youtube.com/watch?v=YcGxfYXwUvI)) · LLMs 2026 ([RuntimeGuard-AI](https://youtu.be/EelEvPhQLDk), [verified certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)) |
-| 🎙️ | **CIMA 2026 Invited Speaker** | NIT Puducherry — [Governing Generative AI in Production](https://www.scrs.in/conference/CIMA2026/speaker/talk/22984) |
-| 🔍 | **JOSS Peer Reviewer** | [Journal of Open Source Software](https://joss.theoj.org/) — reviews of open-source research software |
-| ⚖️ | **Hackathon Judge & Mentor** | Apart Research Global South AI Safety Hackathon 2026 ([public roster](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)) · Qualcomm × AI at Meta ExecuTorch Hackathon (lablab.ai, SF) |
-| 🌐 | **Google Developer Program** | Beta member · Google I/O 2023 attendee |
+|:--|:--|:--|
+| 🎤 | **Conf42 invited speaker ×2** | DevOps 2026 ([GenOps](https://www.youtube.com/watch?v=YcGxfYXwUvI)) · LLMs 2026 ([RuntimeGuard-AI](https://youtu.be/EelEvPhQLDk), [verified certificate](https://certified.fyi/c/D6lQuWMq-byYEePKD-ZqnMXTeJ-HI8GdZj7)) |
+| 🎙️ | **CIMA 2026 invited speaker** | NIT Puducherry — [Governing Generative AI in Production](https://www.scrs.in/conference/CIMA2026/speaker/talk/22984) |
+| 🔍 | **JOSS peer reviewer** | [Journal of Open Source Software](https://joss.theoj.org/) |
+| ⚖️ | **Hackathon judge & mentor** | Apart Research Global South AI Safety Hackathon 2026 ([roster](https://www.apartresearch.com/sprints/global-south-ais-hackathon-2026-06-19-to-2026-06-21)) · Qualcomm × AI at Meta ExecuTorch Hackathon (lablab.ai, SF) |
+| 🏅 | **Aureum Gold Laureate** (Season 3) | NLP Achievement Award · ref. TEC-26-12296 · [press](https://markets.businessinsider.com/news/stocks/aureum-technology-awards-season-3-results-announced-reinforcing-merit-based-global-technology-recognition-and-industry-trust1-1035845335) |
+| 🛡️ | **Hackathon Raptors Fellow** | Fellow #14975 · peer-elected UK CIC fellowship |
+| 🎖️ | **IICSPA Fellow (FIICSPA)** | [profile](https://www.iicspa.org/team/neeraj-kumar-singh-) |
+| 🔬 | **Sigma Xi Full Member** | Scientific Research Honor Society |
+| ⚡ | **IEEE Member** · **Google Developer Program** | Beta member · Google I/O 2023 attendee |
 
 ---
 
-## Impact by Numbers
-
-<div align="center">
-
-| | Metric | Scale |
-|:--|:-------|:------|
-| 🔐 | Security program from zero | SOC 2 Type II (86 controls) · vuln management · exercised BC/DR (Parafin) |
-| 🛡️ | EmbedGuard detection rate | 94.7% · 51 ms overhead · 500K embeddings (peer-reviewed) |
-| ⚡ | GenOps deployment-cycle reduction | 55.7% · zero safety violations · 15,847 deployments (peer-reviewed) |
-| 🤖 | GenAI migration automation | 95% effort reduction (Meta) |
-| 📦 | Unified Build Model | 450M+ requests/day · 99% fewer build-tracking failures (Meta) |
-| 🛡️ | DevSecOps pipeline | 50M+ security checks/month · all 15 business units (Wayfair) |
-| 🔑 | Identity platform | 125M+ API calls/week · 99.97% uptime (Wayfair) |
-| 👨‍🏫 | Engineers mentored | 50+ across all roles |
-| ⭐ | Open source | FAANG: 1,880 stars / 489 forks · faang-system-design: 179 stars / 41 forks (Jul 2026) |
-
-</div>
-
----
-
-## Technical Arsenal
+## Tools I reach for
 
 ```
-Languages        Java · Python · Go · TypeScript · Groovy
-Frameworks       Spring Boot · FastAPI · Node.js · React
-Cloud            AWS · GCP · Kubernetes · Terraform · Docker
-Security         Zero Trust · IAM · Policy-as-Code (OPA/Kyverno) · TLS/mTLS · ZK proofs (Groth16)
-Data             Kafka · PostgreSQL · Cassandra · Redis · BigQuery
-AI/ML            RAG Pipelines · LLM Integration · Prompt Engineering · MCP · AI Safety
-DevOps           CI/CD · GitOps · ArgoCD · Datadog · PagerDuty
-Patterns         Microservices · Event Sourcing · CQRS · Saga · mTLS
+Security   Zero Trust · IAM · OPA/Kyverno policy-as-code · TLS/mTLS · Groth16 ZK proofs · MCP tool access
+Cloud      AWS · GCP · Kubernetes · Terraform · Docker · ArgoCD · Datadog · PagerDuty
+AI         RAG pipelines · LLM integration · agent red-teaming (garak) · MCP
+Code       Java · Python · Go · TypeScript · Spring Boot · FastAPI · Kafka · PostgreSQL · Redis
 ```
 
----
+## Latest writing
 
-## Latest Writing
-
-| Article | Platform |
-|:--------|:---------|
+| Article | Where |
+|:--|:--|
 | [Your Agent Can't Tell What It Was Told From What It Read](https://dev.to/neerazz/your-agent-cant-tell-what-it-was-told-from-what-it-read-26fm) | Dev.to · Jul 2026 |
 | [The Web Page Couldn't Reach Localhost. Your Agent Carried It There.](https://dev.to/neerazz/the-web-page-couldnt-reach-localhost-your-agent-carried-it-there-2ip6) | Dev.to · Jun 2026 |
 | [Nobody Wants to Give the AI Write Access to Prod](https://dev.to/neerazz/the-devops-engineers-ai-landscape-aiops-self-healing-and-whats-actually-production-ready-285c) | Dev.to / Hashnode · Apr 2026 |
-| [Securing the Agentic Stack — weekly newsletter](https://www.linkedin.com/newsletters/7456155337700708352/) | LinkedIn |
-| Prompt Engineering vs Context Engineering vs Reasoning Engineering | LinkedIn |
+| [Securing the Agentic Stack](https://www.linkedin.com/newsletters/7456155337700708352/) | LinkedIn · weekly |
 
----
-
-## Beyond the Code
-
-```
-🐶 Dog Dad        Proud parent of Byte, a mischievous beagle
-🎮 Retro Gamer    Still speed-running Contra on NES
-✈️ Global Dev     Coded in Bangalore, Montevideo, Phoenix, Tampa, San Francisco
-🚴 Trail Explorer System design on two wheels
-```
+28 technical articles + 13-issue newsletter · full list on [ORCID](https://orcid.org/0009-0002-2125-1805). Also on [Hashnode](https://hashnode.com/@neerazz).
 
 ---
 
 <div align="center">
 
-### Let's Connect
+```text
+guard ▸ request from  you
+        reason        "talk agent security, Zero Trust, or one of the papers"
+guard ▸ ALLOW — no receipt needed.
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajkumarsinghb-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
-[![Dev.to](https://img.shields.io/badge/Dev.to-neerazz-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/neerazz)
-[![Hashnode](https://img.shields.io/badge/Hashnode-neerazz-2962FF?style=flat-square&logo=hashnode)](https://hashnode.com/@neerazz)
-[![YouTube](https://img.shields.io/badge/Conf42_Talk-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YcGxfYXwUvI)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2125--1805-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0002-2125-1805)
-[![Website](https://img.shields.io/badge/Website-neerazz.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
-
-*"The best security is invisible. The best infrastructure is boring. I build both — and publish the research behind making the next generation safe."*
+[![LinkedIn](https://img.shields.io/badge/Say%20hi%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/neerajkumarsinghb)
+[![Website](https://img.shields.io/badge/Or%20visit-neerazz.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerazz.github.io)
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%" alt=""/>
+</p>
