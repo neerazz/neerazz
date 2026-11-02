@@ -133,7 +133,12 @@ A gate is only as good as the attacks it has seen.
 
 ## How I got here
 
-Fifteen years in one direction: moving the data, then shipping the code, then deciding who is allowed to touch either.
+<p align="center">
+  <img src="assets/how-i-got-here.svg" width="100%" alt="Career as a privilege-escalation staircase: American Express 2011 at uid 1000, JPMorgan, Wayfair, Raymond James, Meta Reality Labs, up to Parafin at uid 0, root"/>
+</p>
+
+<details>
+<summary><b>Full exploit log</b> — every hop, with what I shipped there</summary>
 
 ```
 2025 ──────── PARAFIN ──────────────────────────────────────── present
@@ -178,6 +183,8 @@ Fifteen years in one direction: moving the data, then shipping the code, then de
               ├─ International Insurance Services: monolith → microservices re-architecture
               └─ Bangalore → Montevideo → Phoenix
 ```
+
+</details>
 
 ---
 

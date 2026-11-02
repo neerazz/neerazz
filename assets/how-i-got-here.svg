@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+  <title id="t">How I got here: fifteen years of privilege escalation, all of it authorized</title>
+  <desc id="d">A staircase from American Express in 2011 at uid 1000 up to Parafin in 2025 at uid 0, root.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2027"/>
+      <stop offset="0.55" stop-color="#203A43"/>
+      <stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+      .uid{fill:#4FD1C5;font-size:12px;font-weight:700}
+      .co{fill:#FFFFFF;font-size:14px;font-weight:700}
+      .role{fill:#C9D6DF;font-size:12px}
+      .hi{fill:#8BA3B0;font-size:11.5px}
+      .tread{fill:none;stroke:#4FD1C5;stroke-width:3;stroke-linecap:round;stroke-dasharray:1800;stroke-dashoffset:1800;animation:draw 4.2s ease-out .3s forwards}
+      .card{opacity:0;animation:rise .6s ease-out forwards}
+      .c1{animation-delay:.5s}.c2{animation-delay:1.1s}.c3{animation-delay:1.7s}
+      .c4{animation-delay:2.3s}.c5{animation-delay:2.9s}.c6{animation-delay:3.5s}.c7{animation-delay:4.3s}
+      .dot{fill:#0F2027;stroke:#4FD1C5;stroke-width:3}
+      .root{fill:#FF6B6B;animation:pulse 1.6s ease-in-out 4.5s infinite}
+      .cursor{animation:blink 1s step-end infinite}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="720" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="720" rx="18" fill="url(#grid)"/>
+
+  <!-- title, in the empty upper-left triangle -->
+  <g class="mono">
+    <text x="60" y="78" fill="#4FD1C5" font-size="22" font-weight="700">$ ./escalate --target uid=0 --legally</text>
+    <text x="60" y="110" fill="#C9D6DF" font-size="15">Fifteen years of privilege escalation. Every hop authorized.</text>
+    <text x="60" y="134" fill="#8BA3B0" font-size="13">Moving the data → shipping the code → deciding who may touch either.</text>
+    <text x="60" y="170" fill="#8BA3B0" font-size="12">[+] 6 hops · 3 countries · 0 exploits used</text>
+  </g>
+
+  <!-- the staircase: tread i runs at y_i from x_i to x_i+180, then rises 90px -->
+  <path class="tread" d="M60 640 H240 V550 H420 V460 H600 V370 H780 V280 H960 V190 H1140 V120"/>
+
+  <g class="mono">
+    <!-- 1 · AMEX -->
+    <g class="card c1">
+      <circle class="dot" cx="60" cy="640" r="6"/>
+      <text x="72" y="568" class="uid">uid=1000 · 2011–19</text>
+      <text x="72" y="586" class="co">AMERICAN EXPRESS</text>
+      <text x="72" y="602" class="role">via TCS · Mainframe</text>
+      <text x="72" y="617" class="hi">monolith → µservices</text>
+      <text x="72" y="631" class="hi">BLR → Montevideo → PHX</text>
+    </g>
+    <!-- 2 · JPMORGAN -->
+    <g class="card c2">
+      <circle class="dot" cx="240" cy="550" r="6"/>
+      <text x="252" y="478" class="uid">uid=800 · 2019–21</text>
+      <text x="252" y="496" class="co">JPMORGAN CHASE</text>
+      <text x="252" y="512" class="role">Senior SWE · CIB</text>
+      <text x="252" y="527" class="hi">ESAP escrow portal</text>
+      <text x="252" y="541" class="hi">platform/security lead</text>
+    </g>
+    <!-- 3 · WAYFAIR -->
+    <g class="card c3">
+      <circle class="dot" cx="420" cy="460" r="6"/>
+      <text x="432" y="388" class="uid">uid=600 · 2022–24</text>
+      <text x="432" y="406" class="co">WAYFAIR</text>
+      <text x="432" y="422" class="role">Technical Architect</text>
+      <text x="432" y="437" class="hi">DevSecOps · all 15 BUs</text>
+      <text x="432" y="451" class="hi">OAuth · 125M+ calls/wk</text>
+    </g>
+    <!-- 4 · RAYMOND JAMES -->
+    <g class="card c4">
+      <circle class="dot" cx="600" cy="370" r="6"/>
+      <text x="612" y="298" class="uid">uid=400 · 2024</text>
+      <text x="612" y="316" class="co">RAYMOND JAMES</text>
+      <text x="612" y="332" class="role">Lead SDE</text>
+      <text x="612" y="347" class="hi">led a team of 8</text>
+      <text x="612" y="361" class="hi">onboarding · e-sign</text>
+    </g>
+    <!-- 5 · META -->
+    <g class="card c5">
+      <circle class="dot" cx="780" cy="280" r="6"/>
+      <text x="792" y="208" class="uid">uid=200 · 2024–25</text>
+      <text x="792" y="226" class="co">META REALITY LABS</text>
+      <text x="792" y="242" class="role">Staff Software Engineer</text>
+      <text x="792" y="257" class="hi">CI/CD · Quest, Ray-Ban</text>
+      <text x="792" y="271" class="hi">build time −35% (P50)</text>
+    </g>
+    <!-- 6 · PARAFIN -->
+    <g class="card c6">
+      <circle class="dot" cx="960" cy="190" r="6"/>
+      <text x="972" y="118" class="uid" style="fill:#FF6B6B">uid=0 · 2025–now</text>
+      <text x="972" y="136" class="co">PARAFIN</text>
+      <text x="972" y="152" class="role">Staff Security Infra</text>
+      <text x="972" y="167" class="hi">first security engineer</text>
+      <text x="972" y="181" class="hi">SOC 2 Type II · 86 ctrls</text>
+    </g>
+    <!-- root -->
+    <g class="card c7">
+      <circle class="root" cx="1140" cy="120" r="9" filter="url(#glow)"/>
+      <text x="1128" y="72" text-anchor="end" fill="#FF6B6B" font-size="15" font-weight="700">root@here:~#</text>
+      <text x="1128" y="94" text-anchor="end" fill="#E6EDF3" font-size="13">now deciding what AI agents may touch<tspan class="cursor" fill="#4FD1C5"> ▌</tspan></text>
+    </g>
+  </g>
+
+  <!-- bottom legend -->
+  <text x="1140" y="690" text-anchor="end" class="mono" fill="#8BA3B0" font-size="11">lower uid = more access · no systems were harmed in this escalation</text>
+</svg>
